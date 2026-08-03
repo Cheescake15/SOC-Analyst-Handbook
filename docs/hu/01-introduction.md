@@ -420,49 +420,6 @@ A SOC egy szervezet biztonsági megfigyelési, elemzési és reagálási képess
 
 A Tier 1, Tier 2 és Tier 3 modell segíthet a feladatok elosztásában, de a tényleges szerepkörök szervezetenként eltérnek. A hatékony SOC nem kizárólag technológiai eszközökre épül, hanem megfelelő emberekre, folyamatokra, együttműködésre és folyamatos fejlesztésre is.
 
----
-
-## 11. Ellenőrző kérdések
-
-1. Mit jelent a SOC rövidítés?
-2. Mi a SOC három alapvető feladata?
-3. Mi a különbség a SOC és a tágabb Blue Team között?
-4. Mi a különbség a Blue Team és a Red Team között?
-5. Mit jelent a riasztások triázsa?
-6. Mi a false positive?
-7. Mikor kell egy riasztást eszkalálni?
-8. Mi a Tier 1 elemző tipikus feladata?
-9. Miben különbözik a Tier 2 szerepkör a Tier 1-től?
-10. Milyen feladatokat végezhet egy Tier 3 elemző?
-11. Mi a legfontosabb különbség a NOC és a SOC között?
-12. Miért fontos a pontos dokumentáció?
-13. Milyen adatforrásokat használhat egy SOC-elemző?
-14. Mi történik egy riasztás lezárása vagy eszkalációja után?
-15. Mely technikai és nem technikai készségek fontosak egy SOC-elemző számára?
-
----
-
-## 12. Rövid gyakorlófeladat
-
-Egy felhasználó munkaidőn kívül egy korábban nem látott országból jelentkezik be a vállalati felhőszolgáltatásba. A belépést több sikertelen próbálkozás előzte meg.
-
-Készíts rövid triázsjegyzetet az alábbi szerkezetben:
-
-```text
-Riasztás:
-Érintett felhasználó:
-Érintett rendszer:
-Időpont:
-Forrás IP-cím:
-Első megállapítás:
-További ellenőrzések:
-Kockázati szint:
-Javasolt intézkedés:
-Eszkaláció szükséges: igen / nem
-Indoklás:
-```
-
-A feladat célja nem a végleges incidensminősítés, hanem a strukturált elemzői gondolkodás gyakorlása.
 
 ---
 
