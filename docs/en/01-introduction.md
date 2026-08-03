@@ -195,7 +195,8 @@ An analyst should escalate when:
 - data loss or exfiltration is suspected
 - the case exceeds the analyst’s authority or expertise
 - immediate containment may be required
-- 
+
+  
 ### 4.6 Documentation
 
 Good SOC documentation is concise, accurate, and verifiable. It records:
@@ -383,7 +384,6 @@ The team considers whether:
 ### Non-Technical Skills
 
 - analytical thinking
-- curiosity
 - accurate documentation
 - clear communication
 - time management
@@ -425,49 +425,6 @@ The Tier 1, Tier 2, and Tier 3 model can help distribute responsibilities, but a
 
 ---
 
-## 11. Review Questions
-
-1. What does SOC stand for?
-2. What are three core objectives of a SOC?
-3. How does a SOC differ from the broader blue team?
-4. What is the difference between a blue team and a red team?
-5. What does alert triage mean?
-6. What is a false positive?
-7. When should an alert be escalated?
-8. What is a typical Tier 1 responsibility?
-9. How does Tier 2 differ from Tier 1?
-10. What tasks may a Tier 3 analyst perform?
-11. What is the main difference between a NOC and a SOC?
-12. Why is accurate documentation important?
-13. Which data sources may a SOC analyst use?
-14. What happens after an alert is closed or escalated?
-15. Which technical and non-technical skills are important for a SOC analyst?
-
----
-
-## 12. Short Exercise
-
-A user signs in to a corporate cloud service outside normal working hours from a country not previously associated with the account. Several failed attempts occurred before the successful login.
-
-Prepare a short triage note using the following structure:
-
-```text
-Alert:
-Affected user:
-Affected system:
-Time:
-Source IP address:
-Initial finding:
-Additional checks:
-Risk level:
-Recommended action:
-Escalation required: yes / no
-Reason:
-```
-
-The purpose is not to make a final incident determination, but to practise structured analytical thinking.
-
----
 
 ## References
 
