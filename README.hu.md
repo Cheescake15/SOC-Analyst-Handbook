@@ -13,7 +13,6 @@ A repository ugyanazt az alapvető tananyagot két nyelven tartalmazza:
 - [English documentation](docs/en/)
 - [Magyar dokumentáció](docs/hu/)
 
-Az angol változat segíti a szakmai angol nyelv fejlesztését, és nemzetközi portfólióként is használható. A magyar változat támogatja a fogalmak pontos megértését és a tananyag könnyebb feldolgozását.
 
 ## Célközönség
 
