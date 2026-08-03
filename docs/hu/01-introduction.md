@@ -250,7 +250,6 @@ Tipikus feladatai:
 - támadási idővonal összeállítása
 - érintett eszközök és fiókok azonosítása
 - incidens súlyosságának meghatározása
-- containment lépések kezdeményezése
 - threat intelligence és MITRE ATT&CK alkalmazása
 - Tier 1 elemzők támogatása
 
