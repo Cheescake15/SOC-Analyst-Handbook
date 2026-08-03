@@ -109,4 +109,4 @@ A kézikönyv nem helyettesíti a gyártói dokumentációkat, a szervezeti elj�
 
 ## Szerző
 
-Kétnyelvű kiberbiztonsági tanulási és portfólióprojektként készült.
+Készítette Varga Lea kiberbiztonsági tanulási és portfólióprojektként.
