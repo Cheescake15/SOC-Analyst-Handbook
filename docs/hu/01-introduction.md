@@ -75,12 +75,12 @@ A SOC legfontosabb céljai:
 
 A NIST Cybersecurity Framework 2.0 hat fő funkciót különböztet meg:
 
-- **Govern** — irányítás;
-- **Identify** — azonosítás;
-- **Protect** — védelem;
-- **Detect** — észlelés;
-- **Respond** — reagálás;
-- **Recover** — helyreállítás.
+- **Govern** — irányítás
+- **Identify** — azonosítás
+- **Protect** — védelem
+- **Detect** — észlelés
+- **Respond** — reagálás
+- **Recover** — helyreállítás
 
 A SOC különösen szorosan kapcsolódik a Detect, Respond és Recover funkciókhoz, de hatékony működéséhez az irányítási, azonosítási és védelmi tevékenységekkel is együtt kell működnie.
 
