@@ -111,4 +111,4 @@ This handbook does not replace vendor documentation, organisational procedures, 
 
 ## Author
 
-Created as a bilingual cybersecurity learning and portfolio project.
+Created by Lea Varga as a cybersecurity learning and portfolio project.
