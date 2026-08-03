@@ -8,12 +8,12 @@ This chapter introduces the role of a Security Operations Center (SOC), the fund
 
 By the end of this chapter, readers should be able to:
 
-- define a SOC and explain why organisations need one;
-- distinguish between blue team and red team activities;
-- describe the core responsibilities of a SOC analyst;
-- differentiate Tier 1, Tier 2, and Tier 3 roles;
-- explain the difference between a NOC and a SOC;
-- outline the typical lifecycle of a security alert.
+- define a SOC and explain why organisations need one
+- distinguish between blue team and red team activities
+- describe the core responsibilities of a SOC analyst
+- differentiate Tier 1, Tier 2, and Tier 3 roles
+- explain the difference between a NOC and a SOC
+- outline the typical lifecycle of a security alert
 
 ---
 
@@ -25,23 +25,23 @@ In NIST terminology, a SOC is a central component of an organisation’s securit
 
 A SOC may monitor:
 
-- workstations and laptops;
-- servers;
-- network devices;
-- cloud services;
-- user accounts;
-- business applications;
-- endpoint security platforms;
-- firewalls and intrusion detection systems;
-- security information and event management platforms.
+- workstations and laptops
+- servers
+- network devices
+- cloud services
+- user accounts
+- business applications
+- endpoint security platforms
+- firewalls and intrusion detection systems
+- security information and event management platforms
 
 A SOC does not necessarily refer to a single physical room. It may operate as:
 
-- an internal organisational unit;
-- a geographically distributed team;
-- a fully remote team;
-- an outsourced service;
-- a hybrid model.
+- an internal organisational unit
+- a geographically distributed team
+- a fully remote team
+- an outsourced service
+- a hybrid model
 
 Outsourced monitoring is often provided by a **Managed Security Service Provider** (MSSP) or a **Managed Detection and Response** (MDR) provider.
 
@@ -92,27 +92,27 @@ The **blue team** represents the defensive side of cybersecurity. Its purpose is
 
 Blue team activities may include:
 
-- monitoring security events;
-- analysing logs;
-- investigating alerts;
-- responding to incidents;
-- protecting endpoints and networks;
-- supporting vulnerability management;
-- using cyber threat intelligence;
-- developing detections;
-- conducting threat hunting;
-- validating security controls;
-- preparing reports and documentation.
+- monitoring security events
+- analysing logs
+- investigating alerts
+- responding to incidents
+- protecting endpoints and networks
+- supporting vulnerability management
+- using cyber threat intelligence
+- developing detections
+- conducting threat hunting
+- validating security controls
+- preparing reports and documentation
 
 The blue team is not necessarily identical to the SOC. The SOC is usually a central part of blue team operations, but the broader defensive function may also include:
 
-- security engineers;
-- incident responders;
-- malware analysts;
-- digital forensics specialists;
-- cyber threat intelligence analysts;
-- cloud security specialists;
-- vulnerability management specialists.
+- security engineers
+- incident responders
+- malware analysts
+- digital forensics specialists
+- cyber threat intelligence analysts
+- cloud security specialists
+- vulnerability management specialists
 
 ### Blue Team and Red Team
 
@@ -142,72 +142,72 @@ Daily work varies between organisations, but commonly includes the following are
 
 During **triage**, the analyst quickly assesses:
 
-- what triggered the alert;
-- which system or user is involved;
-- how urgent the event may be;
-- whether the activity may be malicious;
-- whether further investigation or escalation is required.
+- what triggered the alert
+- which system or user is involved
+- how urgent the event may be
+- whether the activity may be malicious
+- whether further investigation or escalation is required
 
 ### 4.2 Log and Telemetry Analysis
 
 A SOC analyst may review:
 
-- Windows Event Logs;
-- Linux system and authentication logs;
-- firewall logs;
-- DNS logs;
-- proxy and web logs;
-- email security events;
-- EDR telemetry;
-- cloud audit logs;
-- IDS or IPS alerts;
-- SIEM correlations.
+- Windows Event Logs
+- Linux system and authentication logs
+- firewall logs
+- DNS logs
+- proxy and web logs
+- email security events
+- EDR telemetry
+- cloud audit logs
+- IDS or IPS alerts
+- SIEM correlations
 
 ### 4.3 Context Collection
 
 A suspicious event does not always prove that an attack occurred. Analysts therefore gather additional context, such as:
 
-- the affected user’s role;
-- the importance and type of the device;
-- the origin and reputation of an IP address;
-- parent-child process relationships;
-- earlier related events;
-- known threat intelligence;
-- timing and frequency of the activity.
+- the affected user’s role
+- the importance and type of the device
+- the origin and reputation of an IP address
+- parent-child process relationships
+- earlier related events
+- known threat intelligence
+- timing and frequency of the activity
 
 ### 4.4 Alert Classification
 
 An investigation may result in classifications such as:
 
-- **True Positive:** genuine malicious or unauthorised activity;
-- **Benign True Positive:** the rule correctly detected an event, but the activity was authorised;
-- **False Positive:** the alert incorrectly indicated a threat;
-- **False Negative:** malicious activity occurred without generating an alert.
+- **True Positive:** genuine malicious or unauthorised activity
+- **Benign True Positive:** the rule correctly detected an event, but the activity was authorised
+- **False Positive:** the alert incorrectly indicated a threat
+- **False Negative:** malicious activity occurred without generating an alert
 
 ### 4.5 Escalation
 
 An analyst should escalate when:
 
-- the event is likely to be a real incident;
-- a critical system is involved;
-- multiple devices or users may be compromised;
-- a privileged account is affected;
-- data loss or exfiltration is suspected;
-- the case exceeds the analyst’s authority or expertise;
-- immediate containment may be required.
-
+- the event is likely to be a real incident
+- a critical system is involved
+- multiple devices or users may be compromised
+- a privileged account is affected
+- data loss or exfiltration is suspected
+- the case exceeds the analyst’s authority or expertise
+- immediate containment may be required
+- 
 ### 4.6 Documentation
 
 Good SOC documentation is concise, accurate, and verifiable. It records:
 
-- the time of the event or alert;
-- affected systems and accounts;
-- relevant indicators;
-- investigative steps;
-- findings;
-- supporting evidence;
-- risk or severity classification;
-- actions taken or recommended.
+- the time of the event or alert
+- affected systems and accounts
+- relevant indicators
+- investigative steps
+- findings
+- supporting evidence
+- risk or severity classification
+- actions taken or recommended
 
 CISA describes the Cyber Defense Analyst role as analysing information collected from tools such as IDS alerts, firewalls, and network traffic logs in order to mitigate threats.
 
@@ -223,21 +223,21 @@ Tier 1 analysts are usually the first reviewers of incoming alerts.
 
 Typical responsibilities include:
 
-- receiving and prioritising alerts;
-- performing initial triage;
-- following established playbooks;
-- collecting basic evidence;
-- closing false positives;
-- escalating suspicious cases;
-- documenting tickets and findings.
+- receiving and prioritising alerts
+- performing initial triage
+- following established playbooks
+- collecting basic evidence
+- closing false positives
+- escalating suspicious cases
+- documenting tickets and findings
 
 Important Tier 1 skills include:
 
-- attention to detail;
-- accurate use of procedures;
-- clear documentation;
-- basic networking and operating-system knowledge;
-- timely escalation.
+- attention to detail
+- accurate use of procedures
+- clear documentation
+- basic networking and operating-system knowledge
+- timely escalation
 
 ### Tier 2 — Incident Investigator
 
@@ -245,14 +245,14 @@ Tier 2 analysts perform deeper investigations.
 
 Typical responsibilities include:
 
-- analysing escalated alerts;
-- correlating multiple data sources;
-- building attack timelines;
-- identifying affected systems and accounts;
-- assessing incident severity;
-- initiating containment;
-- applying threat intelligence and MITRE ATT&CK;
-- supporting Tier 1 analysts.
+- analysing escalated alerts
+- correlating multiple data sources
+- building attack timelines
+- identifying affected systems and accounts
+- assessing incident severity
+- initiating containment
+- applying threat intelligence and MITRE ATT&CK
+- supporting Tier 1 analysts
 
 ### Tier 3 — Senior Analyst or Threat Hunter
 
@@ -260,28 +260,28 @@ Tier 3 work may include the most technically complex investigations.
 
 Typical responsibilities include:
 
-- investigating advanced incidents;
-- conducting proactive threat hunting;
-- supporting malware and forensic analysis;
-- developing new detections;
-- modelling attacker techniques;
-- identifying detection gaps;
-- proposing automation and process improvements;
-- mentoring other analysts.
+- investigating advanced incidents
+- conducting proactive threat hunting
+- supporting malware and forensic analysis
+- developing new detections
+- modelling attacker techniques
+- identifying detection gaps
+- proposing automation and process improvements
+- mentoring other analysts
 
 ### Other SOC Roles
 
 A mature SOC may also include:
 
-- SOC Manager;
-- SOC Engineer;
-- Detection Engineer;
-- Incident Responder;
-- Threat Intelligence Analyst;
-- Threat Hunter;
-- Digital Forensics Analyst;
-- Malware Analyst;
-- Security Automation Engineer.
+- SOC Manager
+- SOC Engineer
+- Detection Engineer
+- Incident Responder
+- Threat Intelligence Analyst
+- Threat Hunter
+- Digital Forensics Analyst
+- Malware Analyst
+- Security Automation Engineer
 
 ---
 
@@ -358,11 +358,11 @@ For a confirmed incident, the organisation limits damage, removes attacker acces
 
 The team considers whether:
 
-- the detection performed correctly;
-- sufficient telemetry was available;
-- the rule should be tuned;
-- a new playbook or control is required;
-- lessons should be shared.
+- the detection performed correctly
+- sufficient telemetry was available
+- the rule should be tuned
+- a new playbook or control is required
+- lessons should be shared
 
 ---
 
@@ -370,27 +370,27 @@ The team considers whether:
 
 ### Technical Skills
 
-- networking fundamentals;
-- Windows and Linux knowledge;
-- log analysis;
-- SIEM operation;
-- endpoint security basics;
-- understanding of authentication;
-- basic scripting;
-- MITRE ATT&CK usage;
-- incident response fundamentals.
+- networking fundamental
+- Windows and Linux knowledge
+- log analysis
+- SIEM operation
+- endpoint security basics
+- understanding of authentication
+- basic scripting
+- MITRE ATT&CK usage
+- incident response fundamentals
 
 ### Non-Technical Skills
 
-- analytical thinking;
-- curiosity;
-- accurate documentation;
-- clear communication;
-- time management;
-- prioritisation;
-- teamwork;
-- decision-making under pressure;
-- commitment to continuous learning.
+- analytical thinking
+- curiosity
+- accurate documentation
+- clear communication
+- time management
+- prioritisation
+- teamwork
+- decision-making under pressure
+- commitment to continuous learning
 
 An effective analyst does more than operate tools. They ask relevant questions, look for relationships, test assumptions, and base decisions on evidence.
 
