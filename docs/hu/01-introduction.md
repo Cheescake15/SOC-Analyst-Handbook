@@ -357,11 +357,11 @@ Valódi incidens esetén a szervezet korlátozza a károkat, megszünteti a tám
 
 A csapat értékeli, hogy:
 
-- megfelelően működött-e a detektálás;
-- elegendő adat állt-e rendelkezésre;
-- javítani kell-e a szabályokon;
-- szükséges-e új playbook vagy kontroll;
-- milyen tanulságokat kell megosztani.
+- megfelelően működött-e a detektálás
+- elegendő adat állt-e rendelkezésre
+- javítani kell-e a szabályokon
+- szükséges-e új playbook vagy kontroll
+- milyen tanulságokat kell megosztani
 
 ---
 
