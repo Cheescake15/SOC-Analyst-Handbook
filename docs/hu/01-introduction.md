@@ -374,15 +374,13 @@ A csapat értékeli, hogy:
 - naplóelemzés
 - SIEM-használat
 - végpontbiztonsági alapok
-- hitelesítési folyamatok ismeretek
-- alapvető scripting
+- hitelesítési folyamatok ismerete
 - MITRE ATT&CK használata
 - incidenskezelési alapok
 
 ### Nem technikai készségek
 
 - elemző gondolkodás
-- kíváncsiság
 - pontos dokumentáció
 - világos kommunikáció
 - időgazdálkodás
