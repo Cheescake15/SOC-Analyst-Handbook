@@ -98,10 +98,6 @@ Tilos engedély nélkül rendszerekhez hozzáférni, azokat megfigyelni, vizsgá
 
 Javaslatokat és javításokat szívesen fogadunk. Módosítás kezdeményezése előtt olvasd el a [CONTRIBUTING.md](CONTRIBUTING.md) fájlt.
 
-## Licenc
-
-A repository oktatási tartalmai — eltérő megjelölés hiányában — [MIT licenc](LICENSE) alatt érhetők el.
-
 ## Jogi nyilatkozat
 
 A kézikönyv nem helyettesíti a gyártói dokumentációkat, a szervezeti eljárásrendeket, a jogi tanácsadást vagy a professzionális incidenskezelési útmutatókat.
