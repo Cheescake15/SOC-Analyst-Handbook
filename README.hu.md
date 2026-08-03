@@ -23,16 +23,16 @@ A kézikönyv kiberbiztonsági hallgatóknak, leendő SOC-elemzőknek, pályakez
 
 A kézikönyv feldolgozása után az olvasó képes lesz:
 
-1. bemutatni egy Security Operations Center célját és alapvető felépítését;
-2. megkülönböztetni a Tier 1, Tier 2 és Tier 3 elemzői feladatköröket;
-3. értelmezni a legfontosabb hálózati protokollokat és forgalmi mintákat;
-4. felismerni fontos Windows- és Linux-biztonsági eseményeket;
-5. értelmezni gyakori naplóbejegyzéseket és gyanús tevékenységeket;
-6. bemutatni a SIEM-rendszerek szerepét a biztonsági megfigyelésben;
-7. megkülönböztetni a kompromittálódás indikátorait a támadói viselkedésmintáktól;
-8. eseményeket MITRE ATT&CK technikákhoz rendelni;
-9. ismertetni az incidenskezelés főbb szakaszait;
-10. megérteni a malware-ek és a detektálástervezés alapjait.
+1. bemutatni egy Security Operations Center célját és alapvető felépítését
+2. megkülönböztetni a Tier 1, Tier 2 és Tier 3 elemzői feladatköröket
+3. értelmezni a legfontosabb hálózati protokollokat és forgalmi mintákat
+4. felismerni fontos Windows- és Linux-biztonsági eseményeket
+5. értelmezni gyakori naplóbejegyzéseket és gyanús tevékenységeket
+6. bemutatni a SIEM-rendszerek szerepét a biztonsági megfigyelésben
+7. megkülönböztetni a kompromittálódás indikátorait a támadói viselkedésmintáktól
+8. eseményeket MITRE ATT&CK technikákhoz rendelni
+9. ismertetni az incidenskezelés főbb szakaszait
+10. megérteni a malware-ek és a detektálástervezés alapjait
 
 ## A repository felépítése
 
@@ -70,13 +70,13 @@ SOC-Analyst-Handbook/
 
 ## Dokumentációs alapelvek
 
-- kezdőbarát, de szakmailag pontos megfogalmazás;
-- gyakorlati példákkal támogatott magyarázatok;
-- egységes szerkezet a két nyelvi változatban;
-- elsősorban hivatalos és elsődleges források használata;
-- a szakkifejezések kontextusban történő magyarázata;
-- kizárólag védekezési és engedélyezett felhasználás;
-- a külső forrásból származó információk megfelelő hivatkozása.
+- kezdőbarát, de szakmailag pontos megfogalmazás
+- gyakorlati példákkal támogatott magyarázatok
+- egységes szerkezet a két nyelvi változatban
+- elsősorban hivatalos és elsődleges források használata
+- a szakkifejezések kontextusban történő magyarázata
+- kizárólag védekezési és engedélyezett felhasználás
+- a külső forrásból származó információk megfelelő hivatkozása
 
 ## A projekt állapota
 
