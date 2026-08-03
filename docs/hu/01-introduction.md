@@ -215,7 +215,7 @@ A CISA Cyber Defense Analyst szerepleírása szerint a védelmi elemző különb
 
 ## 5. Tier 1, Tier 2 és Tier 3 szerepkörök
 
-Sok SOC többszintű működési modellt alkalmaz. A pontos elnevezések és feladatok szervezetenként eltérhetnek, ezért a Tier-modell nem tekinthető mindenhol azonos, kötelező szabványnak.
+A legtöbb SOC többszintű működési modellt alkalmaz. A pontos elnevezések és feladatok szervezetenként eltérhetnek, ezért a Tier-modell nem tekinthető mindenhol azonos, kötelező szabványnak.
 
 ### Tier 1 — Első szintű elemző
 
