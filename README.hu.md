@@ -1,4 +1,4 @@
-# SOC Analyst Kézikönyv
+# SOC Analízis Kézikönyv
 
 [English](README.md) | [Magyar](README.hu.md)
 
