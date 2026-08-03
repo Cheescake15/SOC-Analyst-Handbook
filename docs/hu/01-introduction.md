@@ -8,12 +8,12 @@ Ez a fejezet bemutatja a Security Operations Center (SOC) szerepét, a Blue Team
 
 A fejezet végére az olvasó képes lesz:
 
-- meghatározni, mi a SOC és miért van rá szükség;
-- megkülönböztetni a Blue Team és a Red Team szerepét;
-- bemutatni egy SOC-elemző alapvető feladatait;
-- megkülönböztetni a Tier 1, Tier 2 és Tier 3 szerepköröket;
-- felismerni a NOC és a SOC közötti különbséget;
-- áttekinteni egy biztonsági riasztás tipikus életútját.
+- meghatározni, mi a SOC és miért van rá szükség
+- megkülönböztetni a Blue Team és a Red Team szerepét
+- bemutatni egy SOC-elemző alapvető feladatait
+- megkülönböztetni a Tier 1, Tier 2 és Tier 3 szerepköröket
+- felismerni a NOC és a SOC közötti különbséget
+- áttekinteni egy biztonsági riasztás tipikus életútját
 
 ---
 
@@ -25,23 +25,23 @@ A NIST terminológiájában a SOC a szervezet biztonsági műveleteinek központ
 
 A SOC által figyelt környezet többek között a következőket foglalhatja magában:
 
-- munkaállomások és laptopok;
-- kiszolgálók;
-- hálózati eszközök;
-- felhőszolgáltatások;
-- felhasználói fiókok;
-- üzleti alkalmazások;
-- végpontvédelmi rendszerek;
-- tűzfalak és behatolásérzékelő rendszerek;
-- napló- és eseménykezelő platformok.
+- munkaállomások és laptopok
+- kiszolgálók
+- hálózati eszközök
+- felhőszolgáltatások
+- felhasználói fiókok
+- üzleti alkalmazások
+- végpontvédelmi rendszerek
+- tűzfalak és behatolásérzékelő rendszerek
+- napló- és eseménykezelő platformok
 
 A SOC nem feltétlenül egyetlen fizikai helyiséget jelent. Működhet:
 
-- belső szervezeti egységként;
-- több telephelyen elosztva;
-- teljesen távoli csapatként;
-- kiszervezett szolgáltatásként;
-- hibrid modellben.
+- belső szervezeti egységként
+- több telephelyen elosztva
+- teljesen távoli csapatként
+- kiszervezett szolgáltatásként
+- hibrid modellben
 
 A kiszervezett biztonsági megfigyelést gyakran **Managed Security Service Provider** (MSSP) vagy **Managed Detection and Response** (MDR) szolgáltató végzi.
 
@@ -92,27 +92,27 @@ A **Blue Team** a szervezet védekező biztonsági oldalát jelenti. Feladata az
 
 A Blue Team tevékenységei közé tartozhat:
 
-- biztonsági események megfigyelése;
-- naplóelemzés;
-- riasztások vizsgálata;
-- incidenskezelés;
-- végpontok és hálózatok védelme;
-- sebezhetőségek kezelésének támogatása;
-- threat intelligence felhasználása;
-- detektálási szabályok fejlesztése;
-- threat hunting;
-- biztonsági kontrollok ellenőrzése;
-- jelentések és dokumentációk készítése.
+- biztonsági események megfigyelése
+- naplóelemzés
+- riasztások vizsgálata
+- incidenskezelés
+- végpontok és hálózatok védelme
+- sebezhetőségek kezelésének támogatása
+- threat intelligence felhasználása
+- detektálási szabályok fejlesztése
+- threat hunting
+- biztonsági kontrollok ellenőrzése
+- jelentések és dokumentációk készítése
 
 A Blue Team nem feltétlenül azonos a SOC-kal. A SOC jellemzően a Blue Team egyik központi része, de a tágabb védekező csapat további szakembereket is magában foglalhat, például:
 
-- biztonsági mérnököket;
-- incidenskezelőket;
-- malware-elemzőket;
-- digitális forenzikus szakértőket;
-- threat intelligence elemzőket;
-- cloud security szakembereket;
-- sebezhetőségkezelési szakértőket.
+- biztonsági mérnököket
+- incidenskezelőket
+- malware-elemzőket
+- digitális forenzikus szakértőket
+- threat intelligence elemzőket
+- cloud security szakembereket
+- sebezhetőségkezelési szakértőket
 
 ### Blue Team és Red Team
 
@@ -140,74 +140,74 @@ A napi munka szervezetenként eltérhet, de jellemzően a következő tevékenys
 
 ### 4.1 Riasztások triázsa
 
-A **triázs** során az elemző gyorsan felméri:
+A **triázs** során az elemző gyorsan felméri
 
-- mi váltotta ki a riasztást;
-- melyik rendszer vagy felhasználó érintett;
-- mennyire sürgős az esemény;
-- valódi fenyegetésről lehet-e szó;
-- szükséges-e további vizsgálat vagy eszkaláció.
+- mi váltotta ki a riasztást
+- melyik rendszer vagy felhasználó érintett
+- mennyire sürgős az esemény
+- valódi fenyegetésről lehet-e szó
+- szükséges-e további vizsgálat vagy eszkaláció
 
 ### 4.2 Naplók és telemetria elemzése
 
 A SOC-elemző többféle adatforrást vizsgálhat:
 
-- Windows Event Log;
-- Linux rendszer- és hitelesítési naplók;
-- tűzfalnaplók;
-- DNS-naplók;
-- proxy- és webes naplók;
-- e-mail-biztonsági események;
-- EDR-telemetria;
-- felhőalapú auditnaplók;
-- IDS- vagy IPS-riasztások;
-- SIEM-korrelációk.
+- Windows Event Log
+- Linux rendszer- és hitelesítési naplók
+- tűzfalnaplók
+- DNS-naplók
+- proxy- és webes naplók
+- e-mail-biztonsági események
+- EDR-telemetria
+- felhőalapú auditnaplók
+- IDS- vagy IPS-riasztások
+- SIEM-korrelációk
 
 ### 4.3 Kontextusgyűjtés
 
 Egy önmagában gyanús esemény nem mindig bizonyít támadást. Az elemző ezért további kontextust gyűjt, például:
 
-- az érintett felhasználó szerepköre;
-- az eszköz típusa és fontossága;
-- az IP-cím földrajzi vagy szervezeti háttere;
-- a folyamat szülő-gyermek kapcsolata;
-- korábbi hasonló események;
-- ismert fenyegetettségi információk;
-- az esemény időpontja és gyakorisága.
+- az érintett felhasználó szerepköre
+- az eszköz típusa és fontossága
+- az IP-cím földrajzi vagy szervezeti háttere
+- a folyamat szülő-gyermek kapcsolata
+- korábbi hasonló események
+- ismert fenyegetettségi információk
+- az esemény időpontja és gyakorisága
 
 ### 4.4 Riasztások minősítése
 
 A vizsgálat eredménye lehet például:
 
-- **True Positive:** valódi káros vagy engedély nélküli tevékenység;
-- **Benign True Positive:** a szabály helyesen észlelt egy eseményt, de az engedélyezett volt;
-- **False Positive:** a riasztás tévesen jelzett fenyegetést;
-- **False Negative:** káros tevékenység történt, de a rendszer nem riasztott.
+- **True Positive:** valódi káros vagy engedély nélküli tevékenység
+- **Benign True Positive:** a szabály helyesen észlelt egy eseményt, de az engedélyezett volt
+- **False Positive:** a riasztás tévesen jelzett fenyegetést
+- **False Negative:** káros tevékenység történt, de a rendszer nem riasztott
 
 ### 4.5 Eszkaláció
 
 Az elemző magasabb szintre továbbítja az ügyet, ha:
 
-- az esemény valószínűleg valódi incidens;
-- kritikus rendszer érintett;
-- több eszköz vagy felhasználó kompromittálódhatott;
-- privilegizált fiók érintett;
-- adatvesztés vagy adatszivárgás gyanúja merül fel;
-- az eset meghaladja a saját jogosultságát vagy szakértelmét;
-- azonnali korlátozó intézkedés szükséges.
+- az esemény valószínűleg valódi incidens
+- kritikus rendszer érintett
+- több eszköz vagy felhasználó kompromittálódhatott
+- privilegizált fiók érintett
+- adatvesztés vagy adatszivárgás gyanúja merül fel
+- az eset meghaladja a saját jogosultságát vagy szakértelmét
+- azonnali korlátozó intézkedés szükséges
 
 ### 4.6 Dokumentáció
 
 A jó SOC-dokumentáció rövid, pontos és ellenőrizhető. Tartalmazza:
 
-- a riasztás vagy esemény időpontját;
-- az érintett eszközöket és fiókokat;
-- a releváns indikátorokat;
-- az elvégzett vizsgálati lépéseket;
-- a megállapításokat;
-- a bizonyítékokat;
-- a kockázati besorolást;
-- a végrehajtott vagy javasolt intézkedéseket.
+- a riasztás vagy esemény időpontját
+- az érintett eszközöket és fiókokat
+- a releváns indikátorokat
+- az elvégzett vizsgálati lépéseket
+- a megállapításokat
+- a bizonyítékokat
+- a kockázati besorolást
+- a végrehajtott vagy javasolt intézkedéseket
 
 A CISA Cyber Defense Analyst szerepleírása szerint a védelmi elemző különböző eszközökből — például IDS-riasztásokból, tűzfalakból és hálózati naplókból — származó adatokat elemez a fenyegetések mérséklése érdekében.
 
@@ -223,21 +223,21 @@ A Tier 1 elemző rendszerint a riasztások első vizsgálója.
 
 Tipikus feladatai:
 
-- riasztások fogadása és priorizálása;
-- alapvető triázs;
-- előre meghatározott playbookok követése;
-- alapadatok és bizonyítékok összegyűjtése;
-- false positive események lezárása;
-- gyanús ügyek eszkalálása;
-- jegyek és vizsgálati megjegyzések dokumentálása.
+- riasztások fogadása és priorizálása
+- alapvető triázs
+- előre meghatározott playbookok követése
+- alapadatok és bizonyítékok összegyűjtése
+- false positive események lezárása
+- gyanús ügyek eszkalálása
+- jegyek és vizsgálati megjegyzések dokumentálása
 
 A Tier 1 szerepkörben különösen fontos:
 
-- a részletekre való odafigyelés;
-- az eljárások pontos követése;
-- a világos dokumentáció;
-- az alapvető hálózati és operációs rendszer ismeret;
-- a megfelelő időben történő eszkaláció.
+- a részletekre való odafigyelés
+- az eljárások pontos követése
+- a világos dokumentáció
+- az alapvető hálózati és operációs rendszer ismeret
+- a megfelelő időben történő eszkaláció
 
 ### Tier 2 — Incidensvizsgáló
 
@@ -245,14 +245,14 @@ A Tier 2 elemző összetettebb vizsgálatokat végez.
 
 Tipikus feladatai:
 
-- eszkalált riasztások mélyebb elemzése;
-- több adatforrás korrelálása;
-- támadási idővonal összeállítása;
-- érintett eszközök és fiókok azonosítása;
-- incidens súlyosságának meghatározása;
-- containment lépések kezdeményezése;
-- threat intelligence és MITRE ATT&CK alkalmazása;
-- Tier 1 elemzők támogatása.
+- eszkalált riasztások mélyebb elemzése
+- több adatforrás korrelálása
+- támadási idővonal összeállítása
+- érintett eszközök és fiókok azonosítása
+- incidens súlyosságának meghatározása
+- containment lépések kezdeményezése
+- threat intelligence és MITRE ATT&CK alkalmazása
+- Tier 1 elemzők támogatása
 
 ### Tier 3 — Senior elemző vagy threat hunter
 
@@ -260,28 +260,28 @@ A Tier 3 szerepkör a legösszetettebb technikai vizsgálatokat foglalhatja mag�
 
 Tipikus feladatai:
 
-- fejlett incidensek vizsgálata;
-- proaktív threat hunting;
-- malware- és forenzikus elemzés támogatása;
-- új detektálások fejlesztése;
-- támadói technikák modellezése;
-- észlelési hiányosságok feltárása;
-- automatizálási és fejlesztési javaslatok kidolgozása;
-- szakmai mentorálás.
+- fejlett incidensek vizsgálata
+- proaktív threat hunting
+- malware- és forenzikus elemzés támogatása
+- új detektálások fejlesztése
+- támadói technikák modellezése
+- észlelési hiányosságok feltárása
+- automatizálási és fejlesztési javaslatok kidolgozása
+- szakmai mentorálás
 
 ### További SOC-szerepkörök
 
 Egy érettebb SOC-ban további szerepkörök is megjelenhetnek:
 
-- SOC Manager;
-- SOC Engineer;
-- Detection Engineer;
-- Incident Responder;
-- Threat Intelligence Analyst;
-- Threat Hunter;
-- Digital Forensics Analyst;
-- Malware Analyst;
-- Security Automation Engineer.
+- SOC Manager
+- SOC Engineer
+- Detection Engineer
+- Incident Responder
+- Threat Intelligence Analyst
+- Threat Hunter
+- Digital Forensics Analyst
+- Malware Analyst
+- Security Automation Engineer
 
 ---
 
@@ -370,27 +370,27 @@ A csapat értékeli, hogy:
 
 ### Technikai készségek
 
-- hálózati alapismeretek;
-- Windows- és Linux-ismeretek;
-- naplóelemzés;
-- SIEM-használat;
-- végpontbiztonsági alapok;
-- hitelesítési folyamatok ismerete;
-- alapvető scripting;
-- MITRE ATT&CK használata;
-- incidenskezelési alapok.
+- hálózati alapismeretek
+- Windows- és Linux-ismeretek
+- naplóelemzés
+- SIEM-használat
+- végpontbiztonsági alapok
+- hitelesítési folyamatok ismeretek
+- alapvető scripting
+- MITRE ATT&CK használata
+- incidenskezelési alapok
 
 ### Nem technikai készségek
 
-- elemző gondolkodás;
-- kíváncsiság;
-- pontos dokumentáció;
-- világos kommunikáció;
-- időgazdálkodás;
-- prioritások kezelése;
-- csapatmunka;
-- nyomás alatti döntéshozatal;
-- folyamatos tanulási hajlandóság.
+- elemző gondolkodás
+- kíváncsiság
+- pontos dokumentáció
+- világos kommunikáció
+- időgazdálkodás
+- prioritások kezelése
+- csapatmunka
+- nyomás alatti döntéshozatal
+- folyamatos tanulási hajlandóság
 
 Egy jó elemző nem pusztán eszközöket kezel. Kérdéseket tesz fel, összefüggéseket keres, ellenőrzi a feltételezéseit, és bizonyítékokra alapozza a döntéseit.
 
