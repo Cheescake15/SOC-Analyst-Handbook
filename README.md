@@ -13,7 +13,6 @@ The repository presents the same core material in two languages:
 - [English documentation](docs/en/)
 - [Hungarian documentation](docs/hu/)
 
-The English version supports professional language development and makes the project suitable for an international portfolio. The Hungarian version supports clear understanding of the concepts and provides an accessible learning resource.
 
 ## Intended Audience
 
@@ -23,16 +22,16 @@ This handbook is intended for cybersecurity students, aspiring SOC analysts, jun
 
 After working through the handbook, readers should be able to:
 
-1. explain the purpose and basic structure of a Security Operations Center;
-2. describe common Tier 1, Tier 2, and Tier 3 analyst responsibilities;
-3. understand essential networking protocols and traffic patterns;
-4. identify important Windows and Linux security events;
-5. interpret common security logs and recognise suspicious activity;
-6. explain the role of SIEM platforms in security monitoring;
-7. distinguish indicators of compromise from attacker behaviours;
-8. use MITRE ATT&CK to classify observed activity;
-9. describe the main stages of incident response;
-10. understand the foundations of malware analysis and detection engineering.
+1. explain the purpose and basic structure of a Security Operations Center
+2. describe common Tier 1, Tier 2, and Tier 3 analyst responsibilities
+3. understand essential networking protocols and traffic patterns
+4. identify important Windows and Linux security events
+5. interpret common security logs and recognise suspicious activity
+6. explain the role of SIEM platforms in security monitoring
+7. distinguish indicators of compromise from attacker behaviours
+8. use MITRE ATT&CK to classify observed activity
+9. describe the main stages of incident response
+10. understand the foundations of malware analysis and detection engineering
 
 ## Repository Structure
 
@@ -101,9 +100,6 @@ Never access, monitor, scan, or modify a system without explicit permission.
 
 Suggestions and corrections are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before proposing a change.
 
-## License
-
-The educational content in this repository is released under the [MIT License](LICENSE), unless a file states otherwise.
 
 ## Disclaimer
 
