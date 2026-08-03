@@ -209,7 +209,7 @@ A jó SOC-dokumentáció rövid, pontos és ellenőrizhető. Tartalmazza:
 - a kockázati besorolást
 - a végrehajtott vagy javasolt intézkedéseket
 
-A CISA Cyber Defense Analyst szerepleírása szerint a védelmi elemző különböző eszközökből — például IDS-riasztásokból, tűzfalakból és hálózati naplókból — származó adatokat elemez a fenyegetések mérséklése érdekében.
+A CISA Cyber Defense Analyst szerepleírása szerint a védelmi elemző különböző eszközökből (például IDS-riasztásokból, tűzfalakból és hálózati naplókból) származó adatokat elemez a fenyegetések mérséklése érdekében.
 
 ---
 
