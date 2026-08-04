@@ -8,8 +8,6 @@ This chapter gives a beginner-level overview of how a Security Operations Center
 
 The sources suggest that an effective SOC relies on three connected areas: people, processes, and technology.
 
-A Hungarian National Cyber Security Center article on incident-handling platforms notes that such platforms can support the work of SOC, CSIRT, and CERT teams during investigations. This is a useful reminder that technology supports the investigation process rather than replacing analyst judgement.
-
 ## 1. People, Processes, and Technology
 
 ### People
