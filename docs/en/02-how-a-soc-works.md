@@ -76,11 +76,8 @@ Systems generate many normal events.
 
 An alert may be created when activity matches a detection rule.
 
-```text
-If a user has 20 failed logins within 10 minutes
-and then logs in successfully,
-create an alert.
-```
+
+If a user has 20 failed logins within 10 minutes and then logs in successfully, create an alert.
 
 An alert does not prove that an attack occurred. It means that the activity may require investigation.
 
@@ -180,13 +177,13 @@ A useful handover may include:
 
 Example:
 
-```text
+
 Suspicious PowerShell activity was detected on WS-104 at 22:14.
 The EDR investigation has started.
 The endpoint has not yet been isolated.
 Next step: review the process tree and network connections.
 Ticket: INC-2481.
-```
+
 
 ## 10. Automation
 
@@ -234,9 +231,6 @@ Analysts review alerts, collect context, assess risk, document findings, and esc
 4. MITRE ATT&CK Data Sources  
    https://attack.mitre.org/datasources/
 
-5. Hungarian National Cyber Security Center  
-   **Incidenskezelési platformok** [Hungarian]  
-   https://nki.gov.hu/it-biztonsag/tanacsok/incidenskezelesi-platformok/
 
 6. Gyaraki Réka, editor  
    **Az információbiztonság alapjai** [Hungarian]  
