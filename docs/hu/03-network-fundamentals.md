@@ -106,19 +106,18 @@ Lehetséges jelek:
 
 ## 6. TCP és UDP
 
-### TCP
+### A TCP (Transmission Control Protocol) egy kapcsolatközpontú (connection-oriented) szállítási rétegbeli protokoll. Mielőtt adatot küldene, megbízható kapcsolatot hoz létre a két végpont között.
 
-A TCP kapcsolatközpontú protokoll.
+A kapcsolat létrehozása a háromutas kézfogással (Three-Way Handshake) történik:
 
-A kapcsolat létrehozása három lépésben történik:
-
-```text
 Kliens → Szerver: SYN
+A kliens kapcsolatot kezdeményez.
 Szerver → Kliens: SYN-ACK
+A szerver visszaigazolja a kérést, és jelzi, hogy készen áll a kapcsolatra.
 Kliens → Szerver: ACK
-```
+A kliens visszaigazolja a szerver válaszát.
 
-Ezt háromutas kézfogásnak nevezik.
+Ezután a TCP-kapcsolat létrejön, és megkezdődhet az adatátvitel.
 
 ### UDP
 
