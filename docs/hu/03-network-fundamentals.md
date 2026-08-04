@@ -224,17 +224,21 @@ Például:
 DORA a DHCP-címkiosztás négy lépésének rövidítése:
 
 D – Discover (Felderítés)
+
 A DHCP-kliens (például egy számítógép vagy telefon) még nem rendelkezik IP-címmel.
 Egy broadcast üzenetet küld a hálózatra, hogy DHCP-szervert keressen.
 Üzenet: DHCP Discover
+
 O – Offer (Ajánlat)
 A DHCP-szerver válaszol a kliensnek.
 Felajánl egy szabad IP-címet és a hozzá tartozó hálózati beállításokat.
 Üzenet: DHCP Offer
+
 R – Request (Kérés)
 A kliens kiválasztja az egyik DHCP-ajánlatot (ha több szerver válaszolt).
 Jelzi a szervernek, hogy elfogadja az ajánlott IP-címet.
 Üzenet: DHCP Request
+
 A – Acknowledge (Nyugtázás)
 A DHCP-szerver megerősíti az IP-cím kiosztását.
 A kliens ezután használhatja az IP-címet a megadott bérleti idő alatt.
