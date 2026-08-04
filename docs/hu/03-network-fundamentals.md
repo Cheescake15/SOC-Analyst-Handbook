@@ -108,7 +108,7 @@ Lehetséges jelek:
 
 ### A TCP (Transmission Control Protocol) egy kapcsolatközpontú szállítási rétegbeli protokoll. Mielőtt adatot küldene, megbízható kapcsolatot hoz létre a két végpont között.
 
-A kapcsolat létrehozása a háromutas kézfogással (Three-Way Handshake) történik:
+A kapcsolat létrehozása a háromutas kézfogással történik:
 
 Kliens → Szerver: SYN
 A kliens kapcsolatot kezdeményez.
