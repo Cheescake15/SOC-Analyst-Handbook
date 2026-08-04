@@ -78,8 +78,11 @@ Példa:
 192.168.1.25/24
 
 A /24 azt jelenti, hogy az első 24 bit a hálózati rész.
+
 Hálózati maszkja: 255.255.255.0
+
 Hálózati cím: 192.168.1.0
+
 Host rész: az utolsó 8 bit (például a 25)
 
 Ez segíthet eldönteni, hogy két IP-cím ugyanahhoz a hálózathoz tartozik-e.
