@@ -225,10 +225,7 @@ Analysts review alerts, collect context, assess risk, document findings, and esc
 2. NIST Cybersecurity Framework 2.0  
    https://www.nist.gov/cyberframework
 
-3. CISA Cybersecurity Incident and Vulnerability Response Playbooks  
-   https://www.cisa.gov/news-events/news/cisa-releases-updated-cybersecurity-incident-and-vulnerability-response-playbooks
-
-4. MITRE ATT&CK Data Sources  
+3. MITRE ATT&CK Data Sources  
    https://attack.mitre.org/datasources/
 
 
