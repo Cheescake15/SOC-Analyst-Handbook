@@ -106,12 +106,9 @@ Riasztás akkor jöhet létre, ha egy esemény megfelel egy előre meghatározot
 
 Például:
 
-```text
-Ha egy felhasználónál 10 percen belül
-20 sikertelen bejelentkezés történik,
-majd sikeres belépés következik,
-hozz létre riasztást.
-```
+
+Ha egy felhasználónál 10 percen belül 20 sikertelen bejelentkezés történik, majd sikeres belépés következik, hozz létre riasztást.
+
 
 Fontos, hogy egy riasztás önmagában még nem bizonyítja a támadást. Csak azt jelzi, hogy az eseményt érdemes megvizsgálni.
 
