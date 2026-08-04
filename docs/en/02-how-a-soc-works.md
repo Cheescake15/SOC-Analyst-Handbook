@@ -221,18 +221,6 @@ A SOC combines people, processes, and technology.
 
 Analysts review alerts, collect context, assess risk, document findings, and escalate when necessary.
 
-## Review Questions
-
-1. What are the three main elements of a SOC?
-2. Which data sources may a SOC use?
-3. What is the difference between an event and an alert?
-4. What does triage mean?
-5. Which factors may influence priority?
-6. What is the purpose of a playbook?
-7. When may escalation be required?
-8. Why is shift handover important?
-9. Which tasks may be automated?
-10. Why are metrics not enough on their own?
 
 ## References
 
