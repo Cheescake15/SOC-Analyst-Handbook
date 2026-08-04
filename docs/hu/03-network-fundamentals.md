@@ -110,16 +110,17 @@ Lehetséges jelek:
 
 A kapcsolat létrehozása a háromutas kézfogással történik:
 
-Kliens → Szerver: SYN
-A kliens kapcsolatot kezdeményez.
+KKliens → Szerver: SYN
+„Kapcsolódni szeretnék.”
+A kliens elküldi a saját kezdő sorszámát (Initial Sequence Number, ISN).
 
 Szerver → Kliens: SYN-ACK
-A szerver visszaigazolja a kérést, és jelzi, hogy készen áll a kapcsolatra.
+„Elfogadom a kapcsolatot, és nyugtázom a kérésed.”
+A szerver elküldi a saját kezdő sorszámát, és visszaigazolja a kliensét.
 
 Kliens → Szerver: ACK
-A kliens visszaigazolja a szerver válaszát.
-
-Ezután a TCP-kapcsolat létrejön, és megkezdődhet az adatátvitel.
+„Megkaptam a válaszodat.”
+A kapcsolat létrejön, és elkezdődhet az adatátvitel.
 
 ### UDP
 
