@@ -110,7 +110,7 @@ Lehetséges jelek:
 
 A kapcsolat létrehozása a háromutas kézfogással történik:
 
-KKliens → Szerver: SYN
+Kliens → Szerver: SYN
 „Kapcsolódni szeretnék.”
 A kliens elküldi a saját kezdő sorszámát (Initial Sequence Number, ISN).
 
