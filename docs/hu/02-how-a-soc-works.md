@@ -49,7 +49,7 @@ Például:
 
 A jól leírt folyamatok segítenek abban, hogy a különböző elemzők hasonló módon kezeljék az azonos típusú eseményeket.
 
-A magyar nyelvű *Az információbiztonság alapjai* című egyetemi kiadvány is hangsúlyozza, hogy az információbiztonság nem kizárólag technikai kérdés. Szervezeti szabályokra, felelősségi körökre és tudatos működésre is szükség van.
+*Az információbiztonság alapjai* című egyetemi kiadvány is hangsúlyozza, hogy az információbiztonság nem kizárólag technikai kérdés. Szervezeti szabályokra, felelősségi körökre és tudatos működésre is szükség van.
 
 ### Technológia
 
