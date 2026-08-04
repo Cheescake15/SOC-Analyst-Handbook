@@ -85,7 +85,6 @@ Hálózati cím: 192.168.1.0
 
 Host rész: az utolsó 8 bit (például a 25)
 
-Ez segíthet eldönteni, hogy két IP-cím ugyanahhoz a hálózathoz tartozik-e.
 
 ## 5. MAC-cím és ARP
 
