@@ -106,7 +106,7 @@ Lehetséges jelek:
 
 ## 6. TCP és UDP
 
-### A TCP (Transmission Control Protocol) egy kapcsolatközpontú (connection-oriented) szállítási rétegbeli protokoll. Mielőtt adatot küldene, megbízható kapcsolatot hoz létre a két végpont között.
+### A TCP (Transmission Control Protocol) egy kapcsolatközpontú szállítási rétegbeli protokoll. Mielőtt adatot küldene, megbízható kapcsolatot hoz létre a két végpont között.
 
 A kapcsolat létrehozása a háromutas kézfogással (Three-Way Handshake) történik:
 
