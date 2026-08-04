@@ -138,7 +138,7 @@ A triázs során az elemző rövid idő alatt megpróbálja eldönteni:
 
 - mennyire sürgős az ügy
 - érintett-e fontos rendszer
-- valószínű lehet-e valódi fenyegetés
+- valódi-e a fenyegetés
 - szükség van-e részletesebb vizsgálatra
 
 ### Kontextusgyűjtés
