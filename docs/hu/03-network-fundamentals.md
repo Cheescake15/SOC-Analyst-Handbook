@@ -112,8 +112,10 @@ A kapcsolat létrehozása a háromutas kézfogással történik:
 
 Kliens → Szerver: SYN
 A kliens kapcsolatot kezdeményez.
+
 Szerver → Kliens: SYN-ACK
 A szerver visszaigazolja a kérést, és jelzi, hogy készen áll a kapcsolatra.
+
 Kliens → Szerver: ACK
 A kliens visszaigazolja a szerver válaszát.
 
