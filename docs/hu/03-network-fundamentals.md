@@ -71,15 +71,16 @@ Az IPv6 nagyobb címtartományt biztosít. Egy SOC számára fontos lehet az IPv
 
 ## 4. Alhálózatok
 
-A CIDR-jelölés azt mutatja meg, hogy az IP-cím mely része jelöli a hálózatot.
+A CIDR (Classless Inter-Domain Routing) jelölés azt mutatja meg, hogy egy IP-cím hány bitje tartozik a hálózati részhez, és ez alapján meghatározható, mely része azonosítja a hálózatot, illetve mely része az állomást (hostot).
 
 Példa:
 
-```text
-192.168.1.0/24
-```
+192.168.1.25/24
 
-A `/24` azt jelenti, hogy az első 24 bit tartozik a hálózati részhez.
+A /24 azt jelenti, hogy az első 24 bit a hálózati rész.
+Hálózati maszkja: 255.255.255.0
+Hálózati cím: 192.168.1.0
+Host rész: az utolsó 8 bit (például a 25)
 
 Ez segíthet eldönteni, hogy két IP-cím ugyanahhoz a hálózathoz tartozik-e.
 
