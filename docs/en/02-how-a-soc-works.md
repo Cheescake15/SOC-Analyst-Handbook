@@ -232,7 +232,3 @@ Analysts review alerts, collect context, assess risk, document findings, and esc
    https://attack.mitre.org/datasources/
 
 
-6. Gyaraki Réka, editor  
-   **Az információbiztonság alapjai** [Hungarian]  
-   National University of Public Service, 2023  
-   https://rtk.uni-nke.hu/document/rtk-uni-nke-hu/az_informaciobiztonsag_alapjai_konyv_kesz_2.pdf
