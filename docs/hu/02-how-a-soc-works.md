@@ -249,13 +249,13 @@ Egy jó műszakátadás tartalmazhatja:
 
 ### Rövid példa
 
-```text
+
 A WS-104 végponton gyanús PowerShell-parancs futott 22:14-kor.
 Az EDR-vizsgálat elindult.
 A végpont még nincs elkülönítve.
 Következő lépés: process tree és hálózati kapcsolatok ellenőrzése.
 Jegy: INC-2481.
-```
+
 
 ## 10. Automatizálás
 
@@ -297,19 +297,6 @@ A riasztások kezelése során az elemző:
 - értékeli a kockázatot
 - dokumentálja a vizsgálatot
 - szükség esetén eszkalál
-
-## Ellenőrző kérdések
-
-1. Mi a SOC három fő eleme?
-2. Milyen adatforrásokat használhat egy SOC?
-3. Mi a különbség egy esemény és egy riasztás között?
-4. Mit jelent a triázs?
-5. Milyen tényezők befolyásolhatják a prioritást?
-6. Mi a playbook célja?
-7. Mikor lehet szükség eszkalációra?
-8. Miért fontos a műszakátadás?
-9. Milyen feladatokat automatizálhat egy SOAR?
-10. Miért nem elegendő csak a riasztások számát mérni?
 
 ## Források
 
