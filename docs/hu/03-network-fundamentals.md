@@ -92,7 +92,7 @@ Példa:
 ```text
 00:1A:2B:3C:4D:5E
 ```
-
+Az ARP (Address Resolution Protocol) egy hálózati protokoll, amelynek feladata, hogy a helyi hálózaton egy IPv4-címhez megtalálja a hozzá tartozó MAC-címet.
 Az ARP az IPv4-címeket kapcsolja össze a helyi hálózaton használt MAC-címekkel.
 
 ARP spoofing esetén egy támadó hamis ARP-válaszokat küldhet.
