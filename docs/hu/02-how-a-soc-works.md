@@ -306,17 +306,14 @@ A riasztások kezelése során az elemző:
 2. NIST Cybersecurity Framework 2.0  
    https://www.nist.gov/cyberframework
 
-3. CISA Cybersecurity Incident and Vulnerability Response Playbooks  
-   https://www.cisa.gov/news-events/news/cisa-releases-updated-cybersecurity-incident-and-vulnerability-response-playbooks
-
-4. MITRE ATT&CK Data Sources  
+3. MITRE ATT&CK Data Sources  
    https://attack.mitre.org/datasources/
 
-5. Nemzeti Kiberbiztonsági Intézet  
+4. Nemzeti Kiberbiztonsági Intézet  
    **Incidenskezelési platformok**  
    https://nki.gov.hu/it-biztonsag/tanacsok/incidenskezelesi-platformok/
 
-6. Gyaraki Réka szerk.  
+5. Gyaraki Réka szerk.  
    **Az információbiztonság alapjai**  
    Nemzeti Közszolgálati Egyetem, 2023  
    https://rtk.uni-nke.hu/document/rtk-uni-nke-hu/az_informaciobiztonsag_alapjai_konyv_kesz_2.pdf
