@@ -337,31 +337,6 @@ Az elemző ellenőrizheti:
 
 A rendszeresen ismétlődő kapcsolatot beaconingnek nevezhetik.
 
-## 14. Hasznos parancsok
-
-### Windows
-
-```powershell
-ipconfig /all
-arp -a
-route print
-nslookup example.com
-netstat -ano
-tracert example.com
-```
-
-### Linux
-
-```bash
-ip address
-ip route
-ip neigh
-ss -tulpen
-dig example.com
-traceroute example.com
-```
-
-Ezeket csak saját vagy engedélyezett rendszeren szabad használni.
 
 ## 15. Összefoglalás
 
