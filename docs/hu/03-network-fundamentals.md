@@ -221,14 +221,33 @@ Például:
 - alapértelmezett átjáró
 - DNS-szerver
 
-A DORA-folyamat:
+DORA a DHCP-címkiosztás négy lépésének rövidítése:
 
-```text
-Discover
-Offer
-Request
-Acknowledge
-```
+D – Discover (Felderítés)
+A DHCP-kliens (például egy számítógép vagy telefon) még nem rendelkezik IP-címmel.
+Egy broadcast üzenetet küld a hálózatra, hogy DHCP-szervert keressen.
+Üzenet: DHCP Discover
+O – Offer (Ajánlat)
+A DHCP-szerver válaszol a kliensnek.
+Felajánl egy szabad IP-címet és a hozzá tartozó hálózati beállításokat.
+Üzenet: DHCP Offer
+R – Request (Kérés)
+A kliens kiválasztja az egyik DHCP-ajánlatot (ha több szerver válaszolt).
+Jelzi a szervernek, hogy elfogadja az ajánlott IP-címet.
+Üzenet: DHCP Request
+A – Acknowledge (Nyugtázás)
+A DHCP-szerver megerősíti az IP-cím kiosztását.
+A kliens ezután használhatja az IP-címet a megadott bérleti idő alatt.
+Üzenet: DHCP ACK
+
+Egyszerűen:
+
+Kliens → DHCP Discover → Szerver
+Szerver → DHCP Offer → Kliens
+Kliens → DHCP Request → Szerver
+Szerver → DHCP ACK → Kliens
+
+A DORA-folyamat után az eszköz teljes értékű hálózati kapcsolatot tud létrehozni.
 
 Egy jogosulatlan DHCP-szerver hibás átjárót vagy DNS-szervert adhat a klienseknek.
 
