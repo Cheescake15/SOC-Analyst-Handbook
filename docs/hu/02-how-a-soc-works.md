@@ -164,7 +164,7 @@ A riasztás minősítése lehet:
 
 ## 5. Prioritás és súlyosság
 
-A források alapján a prioritást nem csak a riasztás típusa határozza meg.
+A prioritást nem csak a riasztás típusa határozza meg.
 
 Fontos lehet:
 
