@@ -85,7 +85,7 @@ Ez segíthet eldönteni, hogy két IP-cím ugyanahhoz a hálózathoz tartozik-e.
 
 ## 5. MAC-cím és ARP
 
-A MAC-cím (Media Access Control address) a hálózati interfész hardveres azonosítója, ezért gyakran fizikai címnek is nevezik. Az adatkapcsolati rétegben (OSI 2. réteg) használják arra, hogy az eszközök egy helyi hálózaton azonosítani tudják egymást.
+A MAC-cím (Media Access Control address) a hálózati interface hardveres azonosítója, ezért gyakran fizikai címnek is nevezik. Az adatkapcsolati rétegben (OSI 2. réteg) használják arra, hogy az eszközök egy helyi hálózaton azonosítani tudják egymást.
 
 Példa:
 
