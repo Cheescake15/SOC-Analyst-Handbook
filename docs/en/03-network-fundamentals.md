@@ -201,31 +201,6 @@ The analyst may review:
 
 Regular repeated communication may be described as beaconing.
 
-## 14. Useful Commands
-
-### Windows
-
-```powershell
-ipconfig /all
-arp -a
-route print
-nslookup example.com
-netstat -ano
-tracert example.com
-```
-
-### Linux
-
-```bash
-ip address
-ip route
-ip neigh
-ss -tulpen
-dig example.com
-traceroute example.com
-```
-
-Use these commands only on authorised systems.
 
 ## Chapter Summary
 
@@ -243,23 +218,6 @@ Useful beginner-level topics include:
 
 The aim is to recognise unusual activity and identify which additional data may be needed.
 
-## Review Questions
-
-1. What is the OSI model used for?
-2. How do IPv4 and IPv6 differ?
-3. What is ARP used for?
-4. What are the steps of the TCP handshake?
-5. How do TCP and UDP differ?
-6. What is a port number used for?
-7. Why can an application not be identified only by its port?
-8. What is a DNS A record?
-9. Which DNS patterns may be suspicious?
-10. What does DHCP DORA mean?
-11. What is ICMP used for?
-12. What does HTTPS add to HTTP?
-13. Why may NAT logs be required?
-14. What is beaconing?
-15. Which data would you review for a repeated outbound connection?
 
 ## References
 
