@@ -338,7 +338,7 @@ Az elemző ellenőrizheti:
 A rendszeresen ismétlődő kapcsolatot beaconingnek nevezhetik.
 
 
-## 15. Összefoglalás
+## 14. Összefoglalás
 
 Egy kezdő SOC-elemző számára hasznos az alábbi fogalmak megértése:
 
