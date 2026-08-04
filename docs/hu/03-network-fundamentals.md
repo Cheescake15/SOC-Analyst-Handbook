@@ -142,16 +142,16 @@ Gyakran használja:
 
 A portszám segít azonosítani, melyik szolgáltatás fogadja a kapcsolatot.
 
-Port	Szolgáltatás	Rövid leírás
-22	SSH (Secure Shell)	Titkosított távoli bejelentkezés és parancsvégrehajtás
-25	SMTP (Simple Mail Transfer Protocol)	E-mail küldés levelezőszerverek között
-53	DNS (Domain Name System)	Domainnevek feloldása IP-címekké
-80	HTTP (Hypertext Transfer Protocol)	Titkosítás nélküli webforgalom
-123	NTP (Network Time Protocol)	Hálózati időszinkronizáció
-389	LDAP (Lightweight Directory Access Protocol)	Címtárszolgáltatások elérése
-443	HTTPS (HTTP Secure)	Titkosított webforgalom TLS/SSL használatával
-445	SMB (Server Message Block)	Fájl- és nyomtatómegosztás Windows hálózatokon
-3389	RDP (Remote Desktop Protocol)	Távoli asztali kapcsolat Windows rendszereken
+Port	      Szolgáltatás	                                 Rövid leírás
+22	         SSH (Secure Shell)	                           Titkosított távoli bejelentkezés és parancsvégrehajtás
+25	         SMTP (Simple Mail Transfer Protocol)	         E-mail küldés levelezőszerverek között
+53	         DNS (Domain Name System)	                     Domainnevek feloldása IP-címekké
+80	         HTTP (Hypertext Transfer Protocol)	            Titkosítás nélküli webforgalom
+123	      NTP (Network Time Protocol)	                  Hálózati időszinkronizáció
+389	      LDAP (Lightweight Directory Access Protocol)	   Címtárszolgáltatások elérése
+443	      HTTPS (HTTP Secure)	                           Titkosított webforgalom TLS/SSL használatával
+445	      SMB (Server Message Block)	                     Fájl- és nyomtatómegosztás Windows hálózatokon
+3389	      RDP (Remote Desktop Protocol)	                  Távoli asztali kapcsolat Windows rendszereken
 
 A portszám önmagában nem bizonyítja, milyen alkalmazás használja a kapcsolatot.
 
