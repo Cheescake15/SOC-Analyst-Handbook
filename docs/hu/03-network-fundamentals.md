@@ -210,7 +210,9 @@ Az NKI DNS-biztonságról szóló magyar nyelvű összefoglalói arra is felhív
 
 ## 9. DHCP
 
-A DHCP automatikusan hálózati beállításokat ad az eszközöknek.
+A DHCP (Dynamic Host Configuration Protocol – Dinamikus állomáskonfigurációs protokoll) egy hálózati protokoll, amely automatikusan kiosztja az eszközök számára a szükséges hálózati beállításokat.
+
+Ahelyett, hogy minden számítógépen, telefonon vagy nyomtatón kézzel kellene beállítani az IP-címet, a DHCP-szerver automatikusan elvégzi ezt.
 
 Például:
 
