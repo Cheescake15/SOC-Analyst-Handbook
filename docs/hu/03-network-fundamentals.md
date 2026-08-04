@@ -85,7 +85,7 @@ Ez segíthet eldönteni, hogy két IP-cím ugyanahhoz a hálózathoz tartozik-e.
 
 ## 5. MAC-cím és ARP
 
-A MAC-cím a hálózati interfész fizikai címeként használható.
+A MAC-cím a hálózati interface fizikai címeként használható.
 
 Példa:
 
