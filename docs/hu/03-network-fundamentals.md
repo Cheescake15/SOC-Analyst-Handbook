@@ -41,7 +41,7 @@ A kommunikáció során az adat minden rétegen új információt kap. Ezt kapsz
 
 ## 3. IP-címek
 
-Az IP-cím egy hálózati interfész logikai címe.
+Az IP-cím egy hálózati interface logikai címe.
 
 ### IPv4
 
