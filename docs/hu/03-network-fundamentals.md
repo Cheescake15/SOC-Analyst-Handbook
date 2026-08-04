@@ -262,7 +262,6 @@ Egy jogosulatlan DHCP-szerver hibás átjárót vagy DNS-szervert adhat a kliens
 
 Az ICMP hálózati állapot- és hibaüzenetek továbbítására szolgál.
 
-A `ping` parancs gyakran ICMP Echo Request és Echo Reply üzeneteket használ.
 
 Az ICMP segíthet:
 
@@ -380,23 +379,6 @@ Egy kezdő SOC-elemző számára hasznos az alábbi fogalmak megértése:
 
 A cél nem minden hálózati részlet megtanulása, hanem annak felismerése, hogy egy esemény normálisnak vagy szokatlannak tűnik-e.
 
-## Ellenőrző kérdések
-
-1. Mire használható az OSI-modell?
-2. Mi a különbség az IPv4 és az IPv6 között?
-3. Mire szolgál az ARP?
-4. Hogyan zajlik a TCP háromutas kézfogása?
-5. Mi a fő különbség a TCP és az UDP között?
-6. Mire szolgál a portszám?
-7. Miért nem azonosítható biztosan egy alkalmazás csak a port alapján?
-8. Mire használják a DNS A rekordját?
-9. Milyen DNS-minták lehetnek gyanúsak?
-10. Mit jelent a DHCP DORA-folyamata?
-11. Mire használható az ICMP?
-12. Mit ad hozzá a HTTPS a HTTP-hez?
-13. Miért lehet szükség NAT-naplókra?
-14. Mit jelent a beaconing?
-15. Milyen adatokat ellenőriznél ismétlődő külső kapcsolat esetén?
 
 ## Források
 
