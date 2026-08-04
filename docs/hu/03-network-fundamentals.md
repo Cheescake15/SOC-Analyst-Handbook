@@ -247,8 +247,11 @@ A kliens ezután használhatja az IP-címet a megadott bérleti idő alatt.
 Egyszerűen:
 
 Kliens → DHCP Discover → Szerver
+
 Szerver → DHCP Offer → Kliens
+
 Kliens → DHCP Request → Szerver
+
 Szerver → DHCP ACK → Kliens
 
 A DORA-folyamat után az eszköz teljes értékű hálózati kapcsolatot tud létrehozni.
