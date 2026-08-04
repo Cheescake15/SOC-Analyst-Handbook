@@ -143,6 +143,7 @@ Gyakran használja:
 A portszám segít azonosítani, melyik szolgáltatás fogadja a kapcsolatot.
 
 Port	      Szolgáltatás	                                 Rövid leírás
+
 22	         SSH (Secure Shell)	                           Titkosított távoli bejelentkezés és parancsvégrehajtás
 
 25	         SMTP (Simple Mail Transfer Protocol)	         E-mail küldés levelezőszerverek között
