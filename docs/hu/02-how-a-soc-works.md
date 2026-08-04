@@ -93,10 +93,10 @@ Egy sikertelen bejelentkezés még nem feltétlenül jelent támadást.
 
 Gyanúsabb lehet a helyzet, ha:
 
-rövid idő alatt sok sikertelen próbálkozás történik
-ezt sikeres belépés követi
-a forrás IP-cím szokatlan
-a felhasználó nem ismeri fel a tevékenységet
+- rövid idő alatt sok sikertelen próbálkozás történik
+- ezt sikeres belépés követi
+- a forrás IP-cím szokatlan
+- a felhasználó nem ismeri fel a tevékenységet
 
 ## 3. Hogyan keletkezik egy riasztás?
 
