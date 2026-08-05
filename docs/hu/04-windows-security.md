@@ -70,11 +70,11 @@ Itt egyes Windows-összetevők és programok részletesebb naplói találhatók.
 
 Például:
 
-```text
+
 Microsoft-Windows-PowerShell
 Microsoft-Windows-TaskScheduler
 Microsoft-Windows-Windows Defender
-```
+
 
 A Nemzeti Kiberbiztonsági Intézet eseménynaplózásról szóló összefoglalója is kiemeli, hogy a megfelelő naplózás segíti a fenyegetések észlelését és az incidensek kivizsgálását.
 
