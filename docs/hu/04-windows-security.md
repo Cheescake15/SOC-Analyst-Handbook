@@ -72,7 +72,9 @@ Például:
 
 
 Microsoft-Windows-PowerShell
+
 Microsoft-Windows-TaskScheduler
+
 Microsoft-Windows-Windows Defender
 
 
