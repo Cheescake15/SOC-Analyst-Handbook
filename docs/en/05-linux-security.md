@@ -124,7 +124,6 @@ It may deserve attention when:
 
 Ubuntu documentation recommends using elevated privileges only when they are needed.
 
-The Hungarian National Cyber Security Center has also reported vulnerabilities affecting `sudo`, showing that flaws in a basic system tool can create serious risk.
 
 ## 6. Files and Permissions
 
