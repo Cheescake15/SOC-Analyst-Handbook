@@ -34,7 +34,6 @@ Linux-rendszereken gyakran futnak:
 - adatbázisok
 - fájlszerverek
 - felhőszolgáltatások
-- konténerek
 - hálózati szolgáltatások
 - biztonsági eszközök
 
