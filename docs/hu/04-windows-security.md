@@ -297,7 +297,7 @@ Az NKI PowerShell-alapú fenyegetésekről szóló anyagai is bemutatják, hogy 
 
 ## 11. Folyamatok és a process tree
 
-A **process tree**, magyarul folyamatfa, megmutatja, melyik program melyik másik programból indult el.
+A **process tree**, megmutatja, melyik program melyik másik programból indult el.
 
 Normális példa:
 
