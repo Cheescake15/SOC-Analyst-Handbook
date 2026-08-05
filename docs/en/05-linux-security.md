@@ -398,7 +398,6 @@ sudo dnf update
 
 Updates are important because they may fix security vulnerabilities.
 
-The Hungarian National Cyber Security Center regularly publishes warnings about Linux vulnerabilities affecting the kernel, `sudo`, and other important components.
 
 ## 15. Simple Investigation Example
 
