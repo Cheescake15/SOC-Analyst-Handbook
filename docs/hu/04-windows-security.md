@@ -6,7 +6,7 @@
 
 A Windows sok vállalatnál a mindennapi munka alapja. Munkaállomásokon és szervereken is használják, ezért egy SOC-elemző gyakran találkozik Windowsból származó riasztásokkal és naplóbejegyzésekkel.
 
-Ebben a fejezetben azokat az alapfogalmakat foglalom össze, amelyek egy kezdő számára is érthetőek. A cél nem a Windows minden technikai részletének bemutatása. Inkább azt szeretném megmutatni, hol keletkezhetnek fontos nyomok, és miért lehet egy esemény érdekes biztonsági szempontból.
+Ebben a fejezetben azokat az alapfogalmakat foglalom össze, amelyek egy kezdő számára is érthetőek. A cél nem a Windows minden technikai részletének bemutatása, inkább azt szeretném megmutatni, hol keletkezhetnek fontos nyomok, és miért lehet egy esemény érdekes biztonsági szempontból.
 
 ## 1. Miért fontos a Windows egy SOC-ban?
 
