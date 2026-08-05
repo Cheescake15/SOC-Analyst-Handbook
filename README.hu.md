@@ -96,7 +96,7 @@ Tilos engedély nélkül rendszerekhez hozzáférni, azokat megfigyelni, vizsgá
 
 ## Közreműködés
 
-Javaslatokat és javításokat szívesen fogadunk. Módosítás kezdeményezése előtt olvasd el a [CONTRIBUTING.md](CONTRIBUTING.md) fájlt.
+Javaslatokat és javításokat szívesen fogadok. Módosítás kezdeményezése előtt olvasd el a [CONTRIBUTING.md](CONTRIBUTING.md) fájlt.
 
 ## Jogi nyilatkozat
 
