@@ -270,6 +270,8 @@ Gyanúsabb lehet egy feladat, ha:
 
 A PowerShell egy Windowsban elérhető parancssori és automatizálási eszköz.
 
+PowerShell segítségével parancsokat adhatsz ki, rendszerfeladatokat automatizálhatsz, és szkripteket írhatsz.
+
 Rendszergazdák használhatják:
 
 - felhasználók kezelésére
