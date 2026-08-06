@@ -104,4 +104,4 @@ A kézikönyv nem helyettesíti a gyártói dokumentációkat, a szervezeti elj�
 
 ## Szerző
 
-Készítette Varga Lea kiberbiztonsági tanulási és portfólióprojektként.
+Készítette Cheescake15 kiberbiztonsági tanulási és portfólióprojektként.
