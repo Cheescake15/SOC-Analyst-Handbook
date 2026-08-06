@@ -137,7 +137,7 @@ Kezdőként nem a lekérdezési nyelv teljes megtanulása a legfontosabb. Elősz
 
 ## 6. Mi az a detektálási szabály?
 
-A **detektálási szabály** olyan feltétel, amely meghatározza, mikor hozzon létre a SIEM riasztást.
+A detektálási szabály olyan feltétel, amely meghatározza, mikor hozzon létre a SIEM riasztást.
 
 Egyszerű példa:
 
@@ -161,7 +161,7 @@ Minél több feltételt használunk, annál pontosabb lehet a riasztás. Túl sz
 
 ## 7. Korreláció
 
-A **korreláció** azt jelenti, hogy a SIEM több, különböző esemény között keres kapcsolatot.
+A korreláció azt jelenti, hogy a SIEM több, különböző esemény között keres kapcsolatot.
 
 Példa:
 
