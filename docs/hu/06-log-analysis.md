@@ -266,7 +266,7 @@ Az elemzőnek érdemes ellenőriznie:
 - pontos-e a rendszeróra
 - történt-e óraátállítás
 
-A rendszerek gyakran NTP-t használnak az idő szinkronizálására.
+A rendszerek gyakran NTP-t (hálózati idő protokoll) használnak az idő szinkronizálására.
 
 ## 13. Naplómegőrzés és védelem
 
