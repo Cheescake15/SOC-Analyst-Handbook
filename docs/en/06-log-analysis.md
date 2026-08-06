@@ -310,23 +310,6 @@ A beginner analyst may ask:
 - Logs must be retained and protected.
 - A simple timeline can make an investigation much clearer.
 
-## 17. Review Questions
-
-1. What is a log?
-2. Why are logs useful for a SOC?
-3. Which fields may appear in a log entry?
-4. How do structured and unstructured logs differ?
-5. What does normalisation mean?
-6. Why is timeline creation useful?
-7. Which fields may be used for filtering?
-8. What is a true positive?
-9. What is a false positive?
-10. What is a benign true positive?
-11. Why is context important?
-12. Why is time synchronisation necessary?
-13. What is log retention?
-14. Why must logs be protected?
-15. What should simple investigation documentation contain?
 
 ## References
 
