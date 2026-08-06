@@ -381,10 +381,9 @@ A SIEM segít összegyűjteni az adatokat. A végső értékelést az elemző v�
 
 - A SIEM több rendszer biztonsági adatait gyűjti központi helyre.
 - Az adatokat kereshetővé és összehasonlíthatóvá teszi.
-- A detektálási szabályok riasztásokat hozhatnak létre.
 - A korreláció több esemény kapcsolatát vizsgálja.
 - Nem minden riasztás jelent támadást.
-- A túl sok riasztás riasztási fáradtságot okozhat.
+- A túl sok riasztás alert fatigue-t okozhat.
 - A tuning segít a szabályok javításában.
 - A SIEM és a SOAR eltérő feladatot lát el.
 - A SIEM csak a megfelelően begyűjtött adatokból tud dolgozni.
