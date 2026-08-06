@@ -8,7 +8,7 @@ The previous chapter explained how individual logs can be analysed. In a large o
 
 A SIEM helps solve this problem.
 
-**SIEM** stands for *Security Information and Event Management*.
+SIEM stands for *Security Information and Event Management*.
 
 In simple terms, a SIEM collects security data from different systems, makes it searchable, and may create alerts when it detects suspicious patterns.
 
@@ -68,7 +68,7 @@ Data may arrive through:
 - a cloud connector
 - file import
 
-An **agent** is a small program that collects and forwards data from a device or server.
+An agent is a small program that collects and forwards data from a device or server.
 
 ## 4. Processing and Normalisation
 
@@ -122,7 +122,7 @@ For a beginner, the first skill is not memorising the full query language. It is
 
 ## 6. Detection Rules
 
-A **detection rule** defines when the SIEM should create an alert.
+A detection rule defines when the SIEM should create an alert.
 
 Example:
 
@@ -146,7 +146,7 @@ More conditions may improve accuracy, but an overly strict rule may miss real at
 
 ## 7. Correlation
 
-**Correlation** means looking for relationships between several events.
+Correlation means looking for relationships between several events.
 
 Example:
 
@@ -211,7 +211,7 @@ A high-severity label does not prove an attack. It helps analysts decide which c
 
 ## 10. Dashboards
 
-A **dashboard** is an overview screen containing charts and tables.
+A dashboard is an overview screen containing charts and tables.
 
 It may show:
 
@@ -229,7 +229,7 @@ Dashboards provide a quick overview but do not replace detailed investigation.
 
 When a SIEM creates too many alerts, analysts may struggle to review them properly.
 
-This is called **alert fatigue**.
+This is called alert fatigue.
 
 Possible causes include:
 
@@ -252,7 +252,7 @@ The goal is not to create the highest possible number of alerts. The goal is to 
 
 ## 12. What Is Tuning?
 
-**Tuning** means improving a detection rule.
+Tuning means improving a detection rule.
 
 A rule that alerts on every PowerShell launch may create too much noise.
 
@@ -280,7 +280,7 @@ Main functions include:
 
 ### SOAR
 
-**SOAR** stands for *Security Orchestration, Automation and Response*.
+SOAR stands for *Security Orchestration, Automation and Response*.
 
 It may:
 
@@ -355,34 +355,17 @@ The SIEM collects and connects the evidence. The analyst makes the final assessm
 
 ## 17. Key Points for Beginners
 
-- A SIEM collects security data from many systems.
-- It makes data searchable and comparable.
-- Detection rules may create alerts.
-- Correlation connects related events.
-- Not every alert means an attack.
-- Too many alerts may cause alert fatigue.
-- Tuning improves detection rules.
-- SIEM and SOAR have different roles.
-- A SIEM depends on good data.
-- Human judgement is still necessary.
+- A SIEM collects security data from many systems
+- It makes data searchable and comparable
+- Detection rules may create alerts
+- Correlation connects related events
+- Not every alert means an attack
+- Too many alerts may cause alert fatigue
+- Tuning improves detection rules
+- SIEM and SOAR have different roles
+- A SIEM depends on good data
+- Human judgement is still necessary
 
-## 18. Review Questions
-
-1. What does SIEM stand for?
-2. What is its main purpose?
-3. Which data sources may it collect?
-4. What is an agent?
-5. What does normalisation mean?
-6. What can a SIEM query do?
-7. What is a detection rule?
-8. What does correlation mean?
-9. How do an event, alert, and incident differ?
-10. What is a dashboard?
-11. What is alert fatigue?
-12. What is tuning?
-13. How do SIEM and SOAR differ?
-14. Why is data quality important?
-15. Why does a SIEM not replace an analyst?
 
 ## References
 
