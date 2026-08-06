@@ -250,7 +250,7 @@ A dashboard segít gyors képet kapni, de önmagában nem helyettesíti a részl
 
 Ha egy SIEM túl sok riasztást készít, az elemzők nehezen tudják mindet megfelelően átnézni.
 
-Ezt **alert fatigue-nak**, magyarul riasztási fáradtságnak nevezik.
+Ezt alert fatigue-nak, magyarul riasztási fáradtságnak nevezik.
 
 Okai lehetnek:
 
@@ -308,7 +308,7 @@ Főként:
 
 ### SOAR
 
-A **SOAR** a *Security Orchestration, Automation and Response* rövidítése.
+A SOAR a *Security Orchestration, Automation and Response* rövidítése.
 
 Főként:
 
