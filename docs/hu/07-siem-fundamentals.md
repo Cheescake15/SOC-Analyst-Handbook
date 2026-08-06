@@ -333,12 +333,8 @@ Nem működik jól, ha:
 - senki nem vizsgálja a riasztásokat
 - nincs elegendő szakmai kontextus
 
-Egyszerűen fogalmazva:
+Egyszerűen fogalmazva a SIEM csak abból tud dolgozni, amit valóban megkap.
 
-```text
-A SIEM csak abból tud dolgozni,
-amit valóban megkap.
-```
 
 ## 15. Adatminőség
 
