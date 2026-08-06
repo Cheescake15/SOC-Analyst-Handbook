@@ -6,7 +6,7 @@
 
 ## Overview
 
-The **SOC Analyst Handbook** is an educational and portfolio-oriented documentation project for cybersecurity students and aspiring blue team professionals.
+The SOC Analyst Handbook is an educational and portfolio-oriented documentation project for cybersecurity students.
 
 The repository presents the same core material in two languages:
 
@@ -16,7 +16,7 @@ The repository presents the same core material in two languages:
 
 ## Intended Audience
 
-This handbook is intended for cybersecurity students, aspiring SOC analysts, junior blue team professionals, IT professionals transitioning into cybersecurity, and anyone interested in the foundations of security operations.
+This handbook is intended for cybersecurity students, aspiring SOC analysts, IT professionals transitioning into cybersecurity, and anyone interested in the foundations of security operations.
 
 ## Learning Objectives
 
@@ -107,4 +107,4 @@ This handbook does not replace vendor documentation, organisational procedures, 
 
 ## Author
 
-Created by Lea Varga as a cybersecurity learning and portfolio project.
+Created by Cheescake15 as a cybersecurity learning and portfolio project.
