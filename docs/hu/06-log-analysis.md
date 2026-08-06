@@ -313,24 +313,24 @@ Kezdő elemzőként érdemes megkérdezni:
 
 ## 15. Egyszerű elemzési módszer
 
-1. Fogalmazd meg a kérdést.
-2. Határozd meg az időszakot.
-3. Gyűjtsd össze az érintett azonosítókat.
-4. Keresd meg a kapcsolódó eseményeket.
-5. Készíts idővonalat.
-6. Válaszd szét az ismert és ismeretlen adatokat.
-7. Dokumentáld a következtetést és a következő lépést.
+1. Fogalmazd meg a kérdést
+2. Határozd meg az időszakot
+3. Gyűjtsd össze az érintett azonosítókat
+4. Keresd meg a kapcsolódó eseményeket
+5. Készíts idővonalat
+6. Válaszd szét az ismert és ismeretlen adatokat
+7. Dokumentáld a következtetést és a következő lépést
 
 ## 16. Mit érdemes kezdőként megjegyezni?
 
-- A napló egy rendszer által készített eseményfeljegyzés.
-- Egyetlen bejegyzés ritkán ad teljes képet.
-- Az időbélyeg és az időzóna nagyon fontos.
-- Több adatforrást gyakran össze kell kapcsolni.
-- A szokatlan esemény nem automatikusan támadás.
-- A kontextus segít a helyes értelmezésben.
-- A naplókat meg kell őrizni és védeni kell.
-- Egy egyszerű idővonal sokat segíthet.
+- A napló egy rendszer által készített eseményfeljegyzés
+- Egyetlen bejegyzés ritkán ad teljes képet
+- Az időbélyeg és az időzóna nagyon fontos
+- Több adatforrást gyakran össze kell kapcsolni
+- A szokatlan esemény nem automatikusan támadás
+- A kontextus segít a helyes értelmezésben
+- A naplókat meg kell őrizni és védeni kell
+- Egy egyszerű idővonal sokat segíthet
 
 
 ## Források
