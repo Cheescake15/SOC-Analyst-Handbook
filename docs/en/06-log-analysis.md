@@ -291,24 +291,24 @@ A beginner analyst may ask:
 
 ## 15. A Simple Analysis Method
 
-1. Define the question.
-2. Define the time range.
-3. Collect identifiers.
-4. Find related events.
-5. Build a timeline.
-6. Separate known and unknown facts.
-7. Document the conclusion and next step.
+1. Define the question
+2. Define the time range
+3. Collect identifiers
+4. Find related events
+5. Build a timeline
+6. Separate known and unknown facts
+7. Document the conclusion and next step
 
 ## 16. Key Points for Beginners
 
-- A log is a system-created event record.
-- One entry rarely gives the full picture.
-- Timestamps and time zones are important.
-- Several sources may need to be connected.
-- Unusual activity is not automatically malicious.
-- Context supports correct interpretation.
-- Logs must be retained and protected.
-- A simple timeline can make an investigation much clearer.
+- A log is a system-created event record
+- One entry rarely gives the full picture
+- Timestamps and time zones are important
+- Several sources may need to be connected
+- Unusual activity is not automatically malicious
+- Context supports correct interpretation
+- Logs must be retained and protected
+- A simple timeline can make an investigation much clearer
 
 
 ## References
