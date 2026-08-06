@@ -80,7 +80,7 @@ Az adat többféle módon érkezhet:
 - felhőalapú csatlakozóval
 - fájl importálásával
 
-Az **ügynök**, angolul agent, egy kis program, amely adatokat gyűjt és továbbít a végpontról vagy szerverről.
+Az ügynök, angolul agent, egy kis program, amely adatokat gyűjt és továbbít a végpontról vagy szerverről.
 
 ## 4. Adatgyűjtés és feldolgozás
 
