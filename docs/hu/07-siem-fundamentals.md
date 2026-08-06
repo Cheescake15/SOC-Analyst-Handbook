@@ -389,23 +389,6 @@ A SIEM segít összegyűjteni az adatokat. A végső értékelést az elemző v�
 - A SIEM csak a megfelelően begyűjtött adatokból tud dolgozni.
 - Az emberi értékelés továbbra is szükséges.
 
-## 18. Ellenőrző kérdések
-
-1. Mit jelent a SIEM rövidítés?
-2. Mi a SIEM alapvető feladata?
-3. Milyen adatforrásokat gyűjthet?
-4. Mi az az agent?
-5. Mit jelent a normalizálás?
-6. Mire használható egy SIEM-lekérdezés?
-7. Mi az a detektálási szabály?
-8. Mit jelent a korreláció?
-9. Mi a különbség az esemény, a riasztás és az incidens között?
-10. Mire szolgál a dashboard?
-11. Mit jelent az alert fatigue?
-12. Mi az a tuning?
-13. Mi a különbség a SIEM és a SOAR között?
-14. Miért fontos az adatminőség?
-15. Miért nem helyettesíti a SIEM az elemzőt?
 
 ## Források
 
