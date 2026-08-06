@@ -232,7 +232,7 @@ Egy magas súlyosságú riasztás sem bizonyít automatikusan támadást. A cím
 
 ## 10. Dashboardok
 
-A **dashboard** egy áttekintő képernyő, amely grafikonokon és táblázatokban mutatja az adatokat.
+A dashboard egy áttekintő képernyő, amely grafikonokon és táblázatokban mutatja az adatokat.
 
 Egy SOC-dashboard megjelenítheti:
 
@@ -273,7 +273,7 @@ A cél nem az, hogy minél több riasztás készüljön. A cél az, hogy a riasz
 
 ## 12. Mi az a tuning?
 
-A **tuning** a szabályok finomhangolását jelenti.
+A tuning a szabályok finomhangolását jelenti.
 
 Példa:
 
