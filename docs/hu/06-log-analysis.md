@@ -332,23 +332,6 @@ Kezdő elemzőként érdemes megkérdezni:
 - A naplókat meg kell őrizni és védeni kell.
 - Egy egyszerű idővonal sokat segíthet.
 
-## 17. Ellenőrző kérdések
-
-1. Mi az a napló?
-2. Miért fontosak a naplók egy SOC számára?
-3. Milyen mezőket tartalmazhat egy naplóbejegyzés?
-4. Mi a különbség a strukturált és a nem strukturált napló között?
-5. Mit jelent a normalizálás?
-6. Miért fontos az idővonal?
-7. Milyen mezők alapján lehet szűrni?
-8. Mi a true positive?
-9. Mi a false positive?
-10. Mi a benign true positive?
-11. Miért fontos a kontextus?
-12. Miért szükséges az időszinkronizálás?
-13. Mit jelent a naplómegőrzés?
-14. Miért kell védeni a naplókat?
-15. Mit tartalmazzon egy egyszerű vizsgálati dokumentáció?
 
 ## Források
 
