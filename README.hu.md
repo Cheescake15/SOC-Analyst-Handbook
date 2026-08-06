@@ -6,7 +6,7 @@
 
 ## A projektről
 
-A **SOC Analyst Kézikönyv** oktatási és portfóliócélú dokumentációs projekt kiberbiztonsági hallgatók és leendő Blue Team szakemberek számára.
+A SOC Analyst Kézikönyv oktatási és portfóliócélú dokumentációs projekt kiberbiztonsági hallgatók és leendő Blue Team szakemberek számára.
 
 A repository ugyanazt az alapvető tananyagot két nyelven tartalmazza:
 
