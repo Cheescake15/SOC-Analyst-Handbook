@@ -8,7 +8,7 @@ Az előző fejezetben azt néztük meg, hogyan lehet naplóbejegyzéseket értel
 
 Ebben segít a SIEM.
 
-A **SIEM** a *Security Information and Event Management* rövidítése. Magyarul nagyjából biztonsági információ- és eseménykezelő rendszernek fordítható.
+A SIEM a *Security Information and Event Management* rövidítése. Magyarul nagyjából biztonsági információ- és eseménykezelő rendszernek fordítható.
 
 Egyszerűen fogalmazva a SIEM összegyűjti a különböző rendszerek biztonsági adatait, kereshetővé teszi őket, és riasztást hozhat létre, ha gyanús mintát észlel.
 
