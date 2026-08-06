@@ -111,7 +111,7 @@ Result: Success
 
 ### Strukturált napló
 
-Jól elkülönített mezőket tartalmaz.
+Jól elkülönített mezőket tartalmaz
 
 ```json
 {
@@ -125,7 +125,7 @@ Jól elkülönített mezőket tartalmaz.
 
 ### Nem strukturált napló
 
-Inkább szöveges mondat.
+Inkább szöveges mondat
 
 ```text
 Failed password for andrea from 203.0.113.24 port 52311 ssh2
@@ -144,7 +144,7 @@ client_ip
 remote_address
 ```
 
-Mindegyik jelentheti a forrás IP-címét.
+Mindegyik jelentheti a forrás IP-címét
 
 A **normalizálás** során ezeket egységes mezőnévre alakítják. A SIEM-rendszerek gyakran elvégzik ezt a feladatot.
 
