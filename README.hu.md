@@ -16,7 +16,7 @@ A repository ugyanazt az alapvető tananyagot két nyelven tartalmazza:
 
 ## Célközönség
 
-A kézikönyv kiberbiztonsági hallgatóknak, leendő SOC-elemzőknek, pályakezdő Blue Team szakembereknek, kiberbiztonsági területre átlépő informatikusoknak és a biztonsági műveletek alapjai iránt érdeklődőknek szól.
+A kézikönyv kiberbiztonsági hallgatóknak, leendő SOC-elemzőknek, kiberbiztonsági területre átlépő informatikusoknak és a biztonsági műveletek alapjai iránt érdeklődőknek szól.
 
 ## Tanulási célok
 
