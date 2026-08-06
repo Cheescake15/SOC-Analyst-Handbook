@@ -46,7 +46,7 @@ Logs may support:
 - timeline creation
 - evidence preservation
 
-CISA and the Hungarian National Cyber Security Center both emphasise that effective logging is necessary to understand what happened in a system.
+CISA emphasise that effective logging is necessary to understand what happened in a system.
 
 ## 3. Common Log Sources
 
