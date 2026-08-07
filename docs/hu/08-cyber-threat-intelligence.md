@@ -170,7 +170,7 @@ Például:
 - szakmai közösségek
 - kereskedelmi CTI feedek
 
-A **feed** folyamatosan frissülő adatforrást jelent.
+A feed folyamatosan frissülő adatforrást jelent.
 
 ## 8. Nyílt forrású CTI
 
