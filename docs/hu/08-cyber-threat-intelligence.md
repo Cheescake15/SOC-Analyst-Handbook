@@ -327,7 +327,11 @@ A TLP a megosztási határokat jelzi.
 
 ### STIX
 
-A **STIX** egy strukturált formátum CTI-adatok leírására.
+A STIX (Structured Threat Information eXpression) egy szabványosított, strukturált adatformátum, amelyet a kiberfenyegetésekkel kapcsolatos információk leírására, tárolására és megosztására használnak. 
+
+Segítségével egységes módon ábrázolhatók többek között a fenyegető szereplők, támadási technikák, IoC-k, malware-ek, sebezhetőségek és az ezek közötti kapcsolatok. 
+
+Egyszerűbben A STIX olyan, mint egy közös nyelv, amelyet a biztonsági eszközök és szervezetek használnak a fenyegetési információk cseréjére. 
 
 Leírhat például:
 
