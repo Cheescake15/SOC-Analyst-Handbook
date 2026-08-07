@@ -297,7 +297,7 @@ Ezek ATT&CK technikákhoz rendelhetők.
 
 ## 10. ATT&CK és a SOC
 
-Egy SOC többféleképpen használhatja az ATT&CK-öt.
+Egy SOC többféleképpen használhatja az ATT&CK-ot.
 
 ### Riasztások címkézése
 
@@ -338,7 +338,7 @@ A MITRE külön figyelmeztet arra, hogy az ATT&CK-öt nem szabad egyszerű kipip
 
 ## 12. ATT&CK Navigator
 
-Az **ATT&CK Navigator** egy webes eszköz a mátrix vizuális megjelenítésére.
+Az ATT&CK Navigator egy webes eszköz a mátrix vizuális megjelenítésére.
 
 Segítségével technikákat lehet például:
 
@@ -380,7 +380,7 @@ Ezeket azonban nem szabad abszolút igazságként kezelni. A tudásbázis a nyil
 
 ## 14. Mi az a mapping?
 
-A **mapping** azt jelenti, hogy egy megfigyelt tevékenységet ATT&CK technikához rendelünk.
+A mapping azt jelenti, hogy egy megfigyelt tevékenységet ATT&CK technikához rendelünk.
 
 Példa:
 
@@ -457,23 +457,6 @@ A szervezet számára releváns fenyegetésekre érdemes koncentrálni.
 - Egy technika lefedettsége nem jelent automatikusan teljes védelmet.
 - Az ATT&CK nem helyettesíti az elemzői gondolkodást.
 
-## 18. Ellenőrző kérdések
-
-1. Mi a MITRE ATT&CK?
-2. Mit jelent az ATT&CK rövidítés?
-3. Mit jelent a taktika?
-4. Mit jelent a technika?
-5. Mi az altechnika?
-6. Mi az eljárás?
-7. Mire szolgál az ATT&CK Matrix?
-8. Milyen fő technológiai területei vannak?
-9. Mit jelent az Initial Access?
-10. Mit jelent a Persistence?
-11. Mit jelent a Lateral Movement?
-12. Mire szolgálnak a technikaazonosítók?
-13. Hogyan használhatja az ATT&CK-öt egy SOC?
-14. Mire használható az ATT&CK Navigator?
-15. Miért nem szabad az ATT&CK-öt egyszerű ellenőrzőlistaként használni?
 
 ## Források
 
