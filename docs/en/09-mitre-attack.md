@@ -378,23 +378,6 @@ Relevant threats should be prioritised.
 - Detection coverage does not automatically mean complete protection.
 - ATT&CK does not replace analyst judgement.
 
-## 18. Review Questions
-
-1. What is MITRE ATT&CK?
-2. What does ATT&CK stand for?
-3. What is a tactic?
-4. What is a technique?
-5. What is a sub-technique?
-6. What is a procedure?
-7. What is the ATT&CK Matrix used for?
-8. Which major technology domains exist?
-9. What does Initial Access mean?
-10. What does Persistence mean?
-11. What does Lateral Movement mean?
-12. Why are technique IDs useful?
-13. How can a SOC use ATT&CK?
-14. What is ATT&CK Navigator used for?
-15. Why should ATT&CK not be treated as a simple checklist?
 
 ## References
 
