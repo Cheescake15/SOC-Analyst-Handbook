@@ -334,7 +334,7 @@ Credential Dumping → nincs megfelelő adatforrás
 
 Fontos, hogy egy zöldre jelölt technika nem jelenti azt, hogy minden lehetséges változatát biztosan észleljük.
 
-A MITRE külön figyelmeztet arra, hogy az ATT&CK-öt nem szabad egyszerű kipipálandó ellenőrzőlistaként használni.
+A MITRE külön figyelmeztet arra, hogy az ATT&CK-ot nem szabad egyszerű kipipálandó ellenőrzőlistaként használni.
 
 ## 12. ATT&CK Navigator
 
