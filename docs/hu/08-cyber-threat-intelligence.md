@@ -12,7 +12,7 @@ Magyarul leggyakrabban kiberfenyegetettség-elemzésnek vagy kiberfenyegetési h
 
 A Nemzeti Kiberbiztonsági Intézet szerint a CTI különböző forrásokból gyűjtött adatok és információk elemzésével segít felmérni a potenciális veszélyforrásokat, felismerni a támadási mintákat és támogatni a védekezést.
 
-Ebben a fejezetben a CTI alapfogalmait kezdő szinten mutatom be.
+Ebben a fejezetben bemutatom a CTI alapfogalmait.
 
 ## 1. Adat, információ és intelligence
 
