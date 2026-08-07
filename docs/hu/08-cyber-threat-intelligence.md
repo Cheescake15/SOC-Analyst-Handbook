@@ -73,7 +73,7 @@ A céljaik eltérhetnek:
 
 Az **IoC** az *Indicator of Compromise* rövidítése.
 
-Egyszerűen olyan technikai nyom, amely ismert vagy feltételezett rosszindulatú tevékenységhez kapcsolódhat.
+olyan nyom vagy bizonyíték, amely arra utal, hogy egy rendszer vagy hálózat kompromittálódhatott, vagyis támadás érte. Egyszerűen fogalmazva, az IoC olyan "digitális ujjlenyomat", amelyet egy támadó vagy rosszindulatú program hagy maga után.
 
 Példák:
 
