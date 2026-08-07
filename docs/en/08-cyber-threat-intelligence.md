@@ -8,7 +8,6 @@ A SOC does not only monitor what happens inside its own systems. It is also usef
 
 This is where **Cyber Threat Intelligence**, or CTI, can help.
 
-The Hungarian National Cyber Security Center describes CTI as the analysis of data and information from different sources to identify threat trends, attack patterns, and potential risks.
 
 This chapter introduces CTI in a beginner-friendly way.
 
@@ -141,7 +140,7 @@ Examples include:
 - professional communities
 - commercial CTI feeds
 
-A **feed** is a continuously updated source of threat data.
+A feed is a continuously updated source of threat data.
 
 ## 8. Open-Source CTI
 
@@ -211,7 +210,7 @@ CERT-EU's 2026 CTI Framework specifically addresses confidence and uncertainty.
 
 ## 12. Traffic Light Protocol
 
-The **Traffic Light Protocol**, or TLP, indicates how information may be shared.
+The Traffic Light Protocol, or TLP, indicates how information may be shared.
 
 TLP 2.0 uses:
 
@@ -298,34 +297,17 @@ Good CTI should be relevant, timely, reliable, understandable, and actionable.
 
 ## 17. Key Points for Beginners
 
-- CTI is analysed information, not just collected data.
-- An IoC is a specific technical clue.
-- A TTP describes attacker behaviour.
-- MITRE ATT&CK provides a common language for adversary behaviour.
-- CTI can come from internal and external sources.
-- Not every feed is relevant to every organisation.
-- Confidence and uncertainty should be communicated.
-- TLP describes information-sharing boundaries.
-- STIX structures CTI data and TAXII can transport it.
-- CTI is most useful when it supports a concrete defensive decision.
+- CTI is analysed information, not just collected data
+- An IoC is a specific technical clue
+- A TTP describes attacker behaviour
+- MITRE ATT&CK provides a common language for adversary behaviour
+- CTI can come from internal and external sources
+- Not every feed is relevant to every organisation
+- Confidence and uncertainty should be communicated
+- TLP describes information-sharing boundaries
+- STIX structures CTI data and TAXII can transport it
+- CTI is most useful when it supports a concrete defensive decision
 
-## 18. Review Questions
-
-1. What does CTI stand for?
-2. How do data, information, and intelligence differ?
-3. What is a threat actor?
-4. What is an IoC?
-5. What is a hash?
-6. What does TTP mean?
-7. How do IoCs and TTPs differ?
-8. Which internal CTI sources may exist?
-9. Which external sources may be used?
-10. What are the main steps of the intelligence cycle?
-11. What is strategic CTI?
-12. What does confidence mean?
-13. What is TLP used for?
-14. How do STIX and TAXII differ?
-15. How can a SOC use CTI?
 
 ## References
 
