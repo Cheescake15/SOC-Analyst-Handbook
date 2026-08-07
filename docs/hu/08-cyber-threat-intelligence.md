@@ -343,7 +343,11 @@ Leírhat például:
 
 ### TAXII
 
-A **TAXII** olyan kommunikációs mechanizmus, amelyen keresztül CTI-adatokat lehet megosztani rendszerek között.
+A TAXII (Trusted Automated eXchange of Intelligence Information) egy szabványos kommunikációs protokoll, amely lehetővé teszi a kiberfenyegetési információk  automatizált és biztonságos megosztását különböző rendszerek és szervezetek között. 
+
+A TAXII-t gyakran a STIX adatformátummal együtt használják, amely meghatározza a megosztott fenyegetési adatok szerkezetét. 
+
+Egyszerűbben A TAXII azt határozza meg, hogyan jutnak el a fenyegetési információk egyik rendszerből a másikba.
 
 Egyszerű hasonlattal:
 
