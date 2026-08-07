@@ -305,7 +305,7 @@ egy ismert támadási kampány része.
 
 ## 12. Mi az a TLP?
 
-A **Traffic Light Protocol**, röviden TLP, azt jelzi, hogyan lehet egy információt továbbadni.
+A Traffic Light Protocol, röviden TLP, azt jelzi, hogyan lehet egy információt továbbadni.
 
 A TLP 2.0 jelölései:
 
