@@ -26,7 +26,11 @@ Ez a négy fogalom az ATT&CK alapja.
 
 ### Taktika
 
-A taktika azt mutatja meg, **miért** hajt végre valamit a támadó.
+A taktika (Tactic) azt a támadói célt vagy szándékot írja le, amelyet a támadó egy adott szakaszban el szeretne érni. 
+
+A MITRE ATT&CK keretrendszerben a taktikák a támadás fő fázisait képviselik, például a kezdeti hozzáférés megszerzését, a jogosultságok emelését vagy az adatok kiszivárogtatását. 
+
+Egyszerűbben, a taktika azt mutatja meg, hogy a támadó miért hajt végre egy adott műveletet, vagyis mi a célja az adott lépéssel.
 
 Például:
 
