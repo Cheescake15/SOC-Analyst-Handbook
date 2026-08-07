@@ -6,7 +6,7 @@
 
 A SOC nemcsak azt figyeli, mi történik a saját rendszereiben. Fontos az is, hogy tudjuk, milyen támadók, módszerek és rosszindulatú infrastruktúrák jelennek meg a külvilágban.
 
-Ezt segíti a **Cyber Threat Intelligence**, röviden CTI.
+Ezt segíti a Cyber Threat Intelligence, röviden CTI.
 
 Magyarul leggyakrabban kiberfenyegetettség-elemzésnek vagy kiberfenyegetési hírszerzésnek nevezik.
 
@@ -53,7 +53,7 @@ A CTI tehát nem egyszerű adatgyűjtés.
 
 ## 2. Mi az a threat actor?
 
-A **threat actor**, magyarul fenyegetési szereplő, olyan személy vagy csoport, amely kibertámadást hajthat végre.
+A threat actor, magyarul fenyegetési szereplő, olyan személy vagy csoport, amely kibertámadást hajthat végre.
 
 Lehet például:
 
@@ -76,7 +76,7 @@ A különböző támadók különböző módszereket használhatnak.
 
 ## 3. Mi az az IoC?
 
-Az **IoC** az *Indicator of Compromise* rövidítése.
+Az IoC az *Indicator of Compromise* rövidítése.
 
 Egyszerűen olyan technikai nyom, amely rosszindulatú tevékenységhez kapcsolódhat.
 
@@ -102,7 +102,7 @@ Egy IP-cím idővel más célra is használható, ezért mindig fontos a dátum 
 
 ## 4. Mi az a hash?
 
-A **hash** egy fájlból számított érték.
+A hash egy fájlból számított érték.
 
 Egyszerű hasonlattal olyan, mint egy digitális ujjlenyomat.
 
@@ -118,7 +118,7 @@ A hash hátránya, hogy a fájl kis módosítása után teljesen megváltozik.
 
 ## 5. Mi az a TTP?
 
-A **TTP** jelentése:
+A TTP jelentése:
 
 - Tactics
 - Techniques
@@ -182,7 +182,7 @@ Például:
 - szakmai közösségek
 - kereskedelmi CTI feedek
 
-A **feed** folyamatosan frissülő adatforrás.
+A feed folyamatosan frissülő adatforrás.
 
 ## 8. Nyílt forrású CTI
 
@@ -299,7 +299,7 @@ A második állítás már elemzői következtetés.
 
 ## 12. Mi az a TLP?
 
-A **Traffic Light Protocol**, röviden TLP, azt jelzi, hogyan lehet egy információt továbbadni.
+A Traffic Light Protocol, röviden TLP, azt jelzi, hogyan lehet egy információt továbbadni.
 
 A TLP 2.0 jelölései:
 
@@ -332,7 +332,7 @@ A CTI-adatokat gépek között is lehet továbbítani.
 
 ### STIX
 
-A **STIX** egy strukturált formátum CTI-adatok leírására.
+A STIX egy strukturált formátum CTI-adatok leírására.
 
 Például leírhat:
 
@@ -344,7 +344,7 @@ Például leírhat:
 
 ### TAXII
 
-A **TAXII** olyan kommunikációs megoldás, amely CTI-adatok cseréjét támogatja rendszerek között.
+A TAXII olyan kommunikációs megoldás, amely CTI-adatok cseréjét támogatja rendszerek között.
 
 Egyszerűen:
 
