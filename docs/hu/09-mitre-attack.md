@@ -73,7 +73,9 @@ Például a phishing történhet:
 
 ### Eljárás
 
-Az eljárás azt írja le, hogy egy konkrét támadó vagy támadócsoport hogyan alkalmazta az adott technikát a gyakorlatban.
+Az eljárás (Procedure) azt írja le, hogy egy konkrét támadó, fenyegetési csoport vagy kártevő hogyan alkalmazott egy adott technikát a gyakorlatban. 
+
+Az eljárások valós támadásokból származó példákat mutatnak be, és segítenek megérteni, hogyan használják a támadók a MITRE ATT&CK technikákat valódi környezetben.
 
 Egyszerűen:
 
