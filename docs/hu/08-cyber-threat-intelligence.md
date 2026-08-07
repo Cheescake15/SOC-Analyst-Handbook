@@ -4,9 +4,9 @@
 
 ## Bevezetés
 
-A SOC nemcsak azt figyeli, mi történik a saját rendszereiben. Fontos az is, hogy tudjuk, milyen támadók, módszerek és rosszindulatú infrastruktúrák jelennek meg a külvilágban.
+A SOC nemcsak azt figyeli, mi történik a saját rendszereiben, fontos az is, hogy tudjuk, milyen támadók, módszerek és rosszindulatú infrastruktúrák jelennek meg a külvilágban.
 
-Ezt segíti a **Cyber Threat Intelligence**, röviden CTI.
+Ezt segíti a Cyber Threat Intelligence, röviden CTI.
 
 Magyarul leggyakrabban kiberfenyegetettség-elemzésnek vagy kiberfenyegetési hírszerzésnek nevezik.
 
