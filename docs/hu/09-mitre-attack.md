@@ -54,14 +54,12 @@ A technika (Technique) azt mutatja meg, hogyan próbálja a támadó elérni a c
 
 A MITRE ATT&CK keretrendszerben a technikák olyan általános módszereket írnak le, amelyeket a támadók különböző taktikák megvalósítására alkalmaznak.
 
-
-A támadó megtévesztő e-mailek vagy üzenetek segítségével próbálja rávenni a felhasználót rosszindulatú hivatkozás megnyitására, fájl letöltésére vagy érzékeny információk megadására.
-
 Például az Initial Access taktikán belül egy lehetséges módszer:
 
 ```text
 Phishing
 ```
+A támadó megtévesztő e-mailek vagy üzenetek segítségével próbálja rávenni a felhasználót rosszindulatú hivatkozás megnyitására, fájl letöltésére vagy érzékeny információk megadására.
 
 ### Altechnika
 
