@@ -426,34 +426,17 @@ A jó CTI:
 
 ## 17. Mit érdemes kezdőként megjegyezni?
 
-- A CTI nem egyszerű adatgyűjtés, hanem elemzett információ.
-- Az IoC konkrét technikai nyom.
-- A TTP azt írja le, hogyan dolgozik egy támadó.
-- A MITRE ATT&CK közös nyelvet ad a támadói viselkedéshez.
-- A CTI belső és külső forrásból is származhat.
-- Nem minden feed releváns minden szervezet számára.
-- A bizonytalanságot és a megbízhatóságot jelezni kell.
-- A TLP az információ megoszthatóságát jelzi.
-- A STIX strukturálja, a TAXII továbbíthatja a CTI-adatokat.
-- A CTI akkor igazán hasznos, ha konkrét védekezési döntést támogat.
+- A CTI nem egyszerű adatgyűjtés, hanem elemzett információ
+- Az IoC konkrét technikai nyom
+- A TTP azt írja le, hogyan dolgozik egy támadó
+- A MITRE ATT&CK közös nyelvet ad a támadói viselkedéshez
+- A CTI belső és külső forrásból is származhat
+- Nem minden feed releváns minden szervezet számára
+- A bizonytalanságot és a megbízhatóságot jelezni kell
+- A TLP az információ megoszthatóságát jelzi
+- A STIX strukturálja, a TAXII továbbíthatja a CTI-adatokat
+- A CTI akkor igazán hasznos, ha konkrét védekezési döntést támogat
 
-## 18. Ellenőrző kérdések
-
-1. Mit jelent a CTI rövidítés?
-2. Mi a különbség adat, információ és intelligence között?
-3. Mi az a threat actor?
-4. Mi az az IoC?
-5. Mi az a hash?
-6. Mit jelent a TTP?
-7. Mi a különbség IoC és TTP között?
-8. Milyen belső CTI-források létezhetnek?
-9. Milyen külső források használhatók?
-10. Melyek a CTI életciklus fő lépései?
-11. Mi a stratégiai CTI?
-12. Mit jelent a confidence level?
-13. Mire szolgál a TLP?
-14. Mi a különbség a STIX és TAXII között?
-15. Hogyan használhatja a CTI-t egy SOC?
 
 ## Források
 
