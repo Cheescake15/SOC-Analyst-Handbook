@@ -50,7 +50,12 @@ Itt a támadó felhasználói azonosítókat vagy jelszavakat próbál megszerez
 
 ### Technika
 
-A technika azt mutatja meg, **hogyan** próbálja elérni a támadó a célját.
+A technika (Technique) azt mutatja meg, hogyan próbálja a támadó elérni a célját. 
+
+A MITRE ATT&CK keretrendszerben a technikák olyan általános módszereket írnak le, amelyeket a támadók különböző taktikák megvalósítására alkalmaznak.
+
+
+A támadó megtévesztő e-mailek vagy üzenetek segítségével próbálja rávenni a felhasználót rosszindulatú hivatkozás megnyitására, fájl letöltésére vagy érzékeny információk megadására.
 
 Például az Initial Access taktikán belül egy lehetséges módszer:
 
