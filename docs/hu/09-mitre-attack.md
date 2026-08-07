@@ -14,7 +14,7 @@ Egyszerűen fogalmazva a MITRE ATT&CK abban segít, hogy közös nyelven tudjunk
 
 ## 1. Miért jött létre?
 
-A MITRE az ATT&CK-öt azért kezdte fejleszteni, hogy valós támadásokból megfigyelt viselkedéseket rendszerezzen.
+A MITRE az ATT&CK-ot azért kezdték fejleszteni, hogy valós támadásokból megfigyelt viselkedéseket rendszerezzen.
 
 A tudásbázis nem azt írja le, hogyan kell támadást végrehajtani. Azt mutatja be, milyen célokat próbálnak elérni a támadók, és milyen módszereket figyeltek meg a valós életben.
 
