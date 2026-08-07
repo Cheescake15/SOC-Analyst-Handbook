@@ -16,7 +16,7 @@ Egyszerűen fogalmazva a MITRE ATT&CK abban segít, hogy közös nyelven tudjunk
 
 A MITRE az ATT&CK-ot azért kezdték fejleszteni, hogy valós támadásokból megfigyelt viselkedéseket rendszerezzen.
 
-A tudásbázis nem azt írja le, hogyan kell támadást végrehajtani. Azt mutatja be, milyen célokat próbálnak elérni a támadók, és milyen módszereket figyeltek meg a valós életben.
+A tudásbázis nem azt írja le, hogy hogyan kell támadást végrehajtani, sokkal inkább azt mutatja be, milyen célokat próbálnak elérni a támadók, és milyen módszereket figyeltek meg a valós életben.
 
 A MITRE hivatalos leírása szerint az ATT&CK valós megfigyelésekre épülő tudásbázis.
 
