@@ -59,7 +59,7 @@ A jó incidenskezelés az incidens előtt kezdődik.
 
 ## 3. Incident Response Plan
 
-Az **incident response plan** egy előre elkészített incidenskezelési terv.
+Az incident response plan egy előre elkészített incidenskezelési terv.
 
 Tartalmazhatja:
 
@@ -75,7 +75,7 @@ A terv célja, hogy stresszes helyzetben se kelljen mindent az elejéről kital�
 
 ## 4. Mi az a playbook?
 
-A **playbook** egy konkrét incidensfajtára készített útmutató.
+A playbook egy konkrét incidensfajtára készített útmutató.
 
 Lehet például:
 
