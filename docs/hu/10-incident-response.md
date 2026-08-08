@@ -148,7 +148,7 @@ Fontos, hogy egy kritikus rendszer leállítása üzleti problémát is okozhat.
 
 ## 8. Eradication
 
-Az **eradication** a támadó jelenlétének és a probléma okának eltávolítását jelenti.
+Az eradication a támadó jelenlétének és a probléma okának eltávolítását jelenti.
 
 Példák:
 
@@ -162,7 +162,7 @@ Nem elég csak a látható tünetet megszüntetni.
 
 ## 9. Recovery
 
-A **recovery** a normális működés biztonságos helyreállítása.
+A recovery a normális működés biztonságos helyreállítása.
 
 Lehetséges lépések:
 
