@@ -307,17 +307,16 @@ Az egyik legfontosabb készség annak felismerése, mikor kell eszkalálni.
 
 ## 18. Mit érdemes kezdőként megjegyezni?
 
-- Nem minden biztonsági esemény incidens.
-- A felkészülés az incidens előtt kezdődik.
-- A triage segít a sürgősség megítélésében.
-- A containment a terjedés korlátozása.
-- Az eradication a probléma okának megszüntetése.
-- A recovery a biztonságos helyreállítás.
-- A bizonyítékokat óvatosan kell kezelni.
-- Minden fontos lépést dokumentálni kell.
-- Az incidenskezelés technikai és szervezeti feladat.
-- Az eset után tanulni kell a történtekből.
-- Ha bizonytalan vagy, eszkalálj.
+- Nem minden biztonsági esemény incidens
+- A felkészülés az incidens előtt kezdődik
+- A triage segít a sürgősség megítélésében
+- A containment a terjedés korlátozása
+- Az eradication a probléma okának megszüntetése
+- A recovery a biztonságos helyreállítás
+- A bizonyítékokat óvatosan kell kezelni
+- Minden fontos lépést dokumentálni kell
+- Az incidenskezelés technikai és szervezeti feladat
+- Az eset után tanulni kell a történtekből
 
 ## 19. Ellenőrző kérdések
 
