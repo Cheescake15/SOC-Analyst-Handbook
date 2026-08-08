@@ -4,9 +4,9 @@
 
 ## Bevezetés
 
-Egy biztonsági riasztás még nem feltétlenül jelent valódi támadást. Ha azonban a vizsgálat azt mutatja, hogy tényleges kiberbiztonsági probléma történt, meg kell kezdeni annak kezelését.
+Egy biztonsági riasztás még nem feltétlenül jelent valódi támadást, ha azonban a vizsgálat azt mutatja, hogy tényleges kiberbiztonsági probléma történt, meg kell kezdeni annak kezelését.
 
-Ezt nevezzük **incident response-nak**, magyarul incidenskezelésnek.
+Ezt nevezzük incident response-nak, magyarul incidenskezelésnek.
 
 Az incidenskezelés célja, hogy a szervezet:
 
