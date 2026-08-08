@@ -6,7 +6,7 @@
 
 A security alert does not automatically mean that a real attack occurred. When an investigation confirms a cybersecurity problem, the organisation needs to respond.
 
-This process is called **incident response**.
+This process is called incident response.
 
 Its goals include:
 
@@ -21,7 +21,7 @@ NIST SP 800-61 Rev. 3 treats incident response as part of broader cybersecurity 
 
 ## 1. Security Event and Incident
 
-A **security event** is something that may be relevant from a security perspective.
+A security event is something that may be relevant from a security perspective.
 
 ```text
 A user entered the wrong password three times.
