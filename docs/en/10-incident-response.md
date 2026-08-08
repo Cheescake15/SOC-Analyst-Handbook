@@ -90,7 +90,7 @@ The analyst may review users, IP addresses, processes, files, network connection
 
 ## 6. Triage
 
-**Triage** is a quick first assessment.
+Triage is a quick first assessment.
 
 It helps answer:
 
@@ -102,7 +102,7 @@ It helps answer:
 
 ## 7. Containment
 
-**Containment** means limiting the incident so that it cannot spread or cause more damage.
+Containment means limiting the incident so that it cannot spread or cause more damage.
 
 Possible actions include:
 
@@ -116,7 +116,7 @@ A critical system should not be shut down without considering the business impac
 
 ## 8. Eradication
 
-**Eradication** means removing the attacker's presence and the cause of the problem.
+Eradication means removing the attacker's presence and the cause of the problem.
 
 Examples include:
 
@@ -128,7 +128,7 @@ Examples include:
 
 ## 9. Recovery
 
-**Recovery** means restoring normal operations safely.
+Recovery means restoring normal operations safely.
 
 Possible actions include:
 
