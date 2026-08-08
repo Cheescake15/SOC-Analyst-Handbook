@@ -158,7 +158,7 @@ Important facts should be documented, including when and where evidence was coll
 
 ## 11. Chain of Custody
 
-**Chain of custody** records how evidence was handled.
+Chain of custody records how evidence was handled.
 
 ```text
 09:20 — disk image created
@@ -264,17 +264,17 @@ Knowing when to escalate is an important SOC skill.
 
 ## 18. Key Points for Beginners
 
-- Not every security event is an incident.
-- Preparation starts before the incident.
-- Triage helps determine urgency.
-- Containment limits spread.
-- Eradication removes the cause and attacker presence.
-- Recovery restores operations safely.
-- Evidence should be handled carefully.
-- Important actions should be documented.
-- Incident response is both technical and organisational.
-- Lessons learned improve future response.
-- When unsure, escalate.
+- Not every security event is an incident
+- Preparation starts before the incident
+- Triage helps determine urgency
+- Containment limits spread
+- Eradication removes the cause and attacker presence
+- Recovery restores operations safely
+- Evidence should be handled carefully
+- Important actions should be documented
+- Incident response is both technical and organisational
+- Lessons learned improve future response
+- When unsure, escalate
 
 ## 19. Review Questions
 
