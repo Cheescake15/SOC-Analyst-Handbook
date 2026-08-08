@@ -118,7 +118,7 @@ Az elemző megvizsgálhatja:
 
 ## 6. Triage
 
-A **triage** gyors első értékelést jelent.
+A triage gyors első értékelést jelent.
 
 A cél annak eldöntése, hogy:
 
@@ -132,7 +132,7 @@ Nem ugyanolyan súlyos egy tesztgépen talált alacsony kockázatú malware, min
 
 ## 7. Containment
 
-A **containment** jelentése korlátozás vagy elszigetelés.
+A containment jelentése korlátozás vagy elszigetelés.
 
 Célja, hogy a támadás ne terjedjen tovább.
 
