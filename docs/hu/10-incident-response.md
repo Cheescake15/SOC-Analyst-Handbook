@@ -197,7 +197,7 @@ Egy incidens során fontos bizonyíték lehet:
 
 ## 11. Chain of Custody
 
-A **chain of custody** azt dokumentálja, hogyan kezelték a bizonyítékot.
+A chain of custody azt dokumentálja, hogyan kezelték a bizonyítékot.
 
 Példa:
 
