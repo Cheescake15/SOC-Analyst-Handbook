@@ -50,7 +50,7 @@ An organisation should know:
 
 ## 3. Incident Response Plan
 
-An **incident response plan** defines responsibilities and important processes in advance.
+An incident response plan defines responsibilities and important processes in advance.
 
 It may include:
 
@@ -64,7 +64,7 @@ It may include:
 
 ## 4. Playbooks
 
-A **playbook** is a more specific guide for one type of incident.
+A playbook is a more specific guide for one type of incident.
 
 Examples include:
 
