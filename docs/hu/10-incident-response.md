@@ -21,7 +21,7 @@ A NIST SP 800-61 Rev. 3 az incidenskezelést a teljes kiberbiztonsági kockázat
 
 ## 1. Biztonsági esemény és incidens
 
-A **biztonsági esemény** olyan történés, amely biztonsági szempontból érdekes lehet.
+A biztonsági esemény olyan történés, amely biztonsági szempontból érdekes lehet.
 
 Példa:
 
@@ -31,7 +31,7 @@ Egy felhasználó háromszor rossz jelszót adott meg.
 
 Ez még nem biztos, hogy incidens.
 
-A **kiberbiztonsági incidens** olyan esemény vagy eseménysor, amely valóban veszélyeztetheti a rendszert vagy az adatokat.
+A kiberbiztonsági incidens olyan esemény vagy eseménysor, amely valóban veszélyeztetheti a rendszert vagy az adatokat.
 
 Példák:
 
