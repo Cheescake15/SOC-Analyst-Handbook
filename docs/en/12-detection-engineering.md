@@ -12,7 +12,7 @@ A natural next question is:
 How do raw logs become useful security alerts?
 ```
 
-This is one of the main goals of **detection engineering**.
+This is one of the main goals of detection engineering.
 
 Detection engineering is the process of designing, testing, improving, and maintaining security detections.
 
@@ -20,7 +20,7 @@ The goal is to recognise important attacker behaviour without creating an unmana
 
 ## 1. What Is a Detection?
 
-A **detection** identifies a defined or unusual pattern in security data.
+A detection identifies a defined or unusual pattern in security data.
 
 Example:
 
@@ -62,8 +62,7 @@ Before writing a query, define what you want to identify.
 Example:
 
 ```text
-How could we identify
-unusual PowerShell activity?
+How could we identify unusual PowerShell activity?
 ```
 
 Then ask:
@@ -168,7 +167,7 @@ A threshold that is too high may miss attacks.
 
 ## 8. Baselines
 
-A **baseline** describes normal behaviour.
+A baseline describes normal behaviour.
 
 Examples:
 
@@ -181,7 +180,7 @@ Understanding normal behaviour makes unusual behaviour easier to recognise.
 
 ## 9. False Positives
 
-A **false positive** is an alert caused by legitimate activity.
+A false positive is an alert caused by legitimate activity.
 
 Example:
 
@@ -197,7 +196,7 @@ Too many false positives can contribute to alert fatigue.
 
 ## 10. False Negatives
 
-A **false negative** occurs when malicious activity happens but the detection misses it.
+A false negative occurs when malicious activity happens but the detection misses it.
 
 Example:
 
@@ -213,7 +212,7 @@ False negatives can be more difficult to discover than false positives.
 
 ## 11. Tuning
 
-**Tuning** means improving detection logic.
+Tuning means improving detection logic.
 
 Initial rule:
 
@@ -304,7 +303,7 @@ Questions include:
 
 ## 16. Detection Coverage
 
-**Detection coverage** describes which attacker behaviours the organisation can detect.
+Detection coverage describes which attacker behaviours the organisation can detect.
 
 However:
 
@@ -318,7 +317,7 @@ Coverage should therefore be validated.
 
 ## 17. What Is Sigma?
 
-**Sigma** is an open format for describing log-based detection rules.
+Sigma is an open format for describing log-based detection rules.
 
 It can be thought of as a common language for detections.
 
@@ -403,8 +402,7 @@ Which KQL query should I write?
 Ask:
 
 ```text
-Which attacker behaviour
-do I want to identify?
+Which attacker behaviour do I want to identify?
 
 Which data would prove it?
 ```
@@ -507,18 +505,18 @@ The goal is useful detection capability.
 
 ## 25. Key Points for Beginners
 
-- Detection engineering designs and improves security detections.
-- Start by understanding attacker behaviour.
-- Detection requires suitable data.
-- Thresholds and time windows are common rule elements.
-- A baseline describes normal behaviour.
-- A false positive is an incorrect alert.
-- A false negative is missed malicious activity.
-- Tuning improves detection quality.
-- Rules should be tested and documented.
-- MITRE ATT&CK can organise detection coverage.
-- Sigma is an open vendor-neutral detection format.
-- Detection engineering is a continuous process.
+- Detection engineering designs and improves security detections
+- Start by understanding attacker behaviour
+- Detection requires suitable data
+- Thresholds and time windows are common rule elements
+- A baseline describes normal behaviour
+- A false positive is an incorrect alert
+- A false negative is missed malicious activity
+- Tuning improves detection quality
+- Rules should be tested and documented
+- MITRE ATT&CK can organise detection coverage
+- Sigma is an open vendor-neutral detection format
+- Detection engineering is a continuous process
 
 ## 26. Review Questions
 
