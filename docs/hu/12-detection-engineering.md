@@ -536,18 +536,18 @@ A cél a használható detektálási képesség.
 
 ## 25. Mit érdemes kezdőként megjegyezni?
 
-- A detection engineering használható biztonsági detektálások tervezése és fejlesztése.
-- Először a támadói viselkedést kell megérteni.
-- Csak azt lehet detektálni, amiről megfelelő adat áll rendelkezésre.
-- A küszöbérték és az időablak sok szabály fontos része.
-- A baseline segít megérteni a normális működést.
-- A false positive téves riasztás.
-- A false negative kihagyott valódi rosszindulatú esemény.
-- A tuning a szabály finomhangolása.
-- Egy detektálási szabályt tesztelni és dokumentálni kell.
-- A MITRE ATT&CK segíthet a lefedettség rendszerezésében.
-- A Sigma egy nyílt, gyártófüggetlen detektálási formátum.
-- A detektálás nem egyszeri feladat, hanem folyamatos fejlesztés.
+- A detection engineering használható biztonsági detektálások tervezése és fejlesztése
+- Először a támadói viselkedést kell megérteni
+- Csak azt lehet detektálni, amiről megfelelő adat áll rendelkezésre
+- A küszöbérték és az időablak sok szabály fontos része
+- A baseline segít megérteni a normális működést
+- A false positive téves riasztás
+- A false negative kihagyott valódi rosszindulatú esemény
+- A tuning a szabály finomhangolása
+- Egy detektálási szabályt tesztelni és dokumentálni kell
+- A MITRE ATT&CK segíthet a lefedettség rendszerezésében
+- A Sigma egy nyílt, gyártófüggetlen detektálási formátum
+- A detektálás nem egyszeri feladat, hanem folyamatos fejlesztés
 
 ## 26. Ellenőrző kérdések
 
