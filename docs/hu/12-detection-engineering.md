@@ -64,9 +64,7 @@ Egy detektálás készítése előtt érdemes egy egyszerű kérdést feltenni.
 Például:
 
 ```text
-Hogyan tudnánk észrevenni,
-ha valaki szokatlan módon
-PowerShellt használ?
+Hogyan tudnánk észrevenni, ha valaki szokatlan módon PowerShellt használ?
 ```
 
 Ezután lehet tovább bontani:
