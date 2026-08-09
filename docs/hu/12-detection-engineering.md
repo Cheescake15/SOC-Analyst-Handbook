@@ -20,7 +20,7 @@ A cél olyan szabályok létrehozása, amelyek képesek felismerni a számunkra 
 
 ## 1. Mi az a detektálás?
 
-A **detektálás** azt jelenti, hogy egy biztonsági rendszer felismer egy előre meghatározott vagy szokatlan mintát.
+A detektálás azt jelenti, hogy egy biztonsági rendszer felismer egy előre meghatározott vagy szokatlan mintát.
 
 Egyszerű példa:
 
