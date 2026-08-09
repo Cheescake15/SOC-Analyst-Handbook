@@ -812,18 +812,18 @@ Kérdések:
 
 ## 27. Mit érdemes kezdőként megjegyezni?
 
-- Egy riasztás csak a vizsgálat kezdete.
-- Mindig nézd meg az esemény előtti és utáni történéseket.
-- Egyetlen esemény ritkán bizonyít támadást.
-- A kontextus nélkül könnyű téves következtetésre jutni.
-- Az idővonal az egyik legegyszerűbb és leghasznosabb eszköz.
-- A tényt és a feltételezést külön kell kezelni.
-- A CTI segíthet kontextust adni.
-- A MITRE ATT&CK segít rendszerezni a viselkedést.
-- A detection tuning csökkentheti a zajt.
-- Az adatforrás kiesése maga is biztonsági probléma lehet.
-- Egy jó SOC-elemző tudja, mikor kell tovább vizsgálni és mikor kell eszkalálni.
-- Kezdőként a jó kérdések fontosabbak, mint a túl sok technikai parancs.
+- Egy riasztás csak a vizsgálat kezdete
+- Mindig nézd meg az esemény előtti és utáni történéseket
+- Egyetlen esemény ritkán bizonyít támadást
+- A kontextus nélkül könnyű téves következtetésre jutni
+- Az idővonal az egyik legegyszerűbb és leghasznosabb eszköz
+- A tényt és a feltételezést külön kell kezelni
+- A CTI segíthet kontextust adni
+- A MITRE ATT&CK segít rendszerezni a viselkedést
+- A detection tuning csökkentheti a zajt
+- Az adatforrás kiesése maga is biztonsági probléma lehet
+- Egy jó SOC-elemző tudja, mikor kell tovább vizsgálni és mikor kell eszkalálni
+- Kezdőként a jó kérdések fontosabbak, mint a túl sok technikai parancs
 
 ## 28. Ellenőrző kérdések
 
