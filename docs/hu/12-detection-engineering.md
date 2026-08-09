@@ -202,23 +202,21 @@ A túl sok false positive riasztási fáradtsághoz vezethet.
 
 ## 10. False negative
 
-A **false negative** azt jelenti, hogy valódi rosszindulatú tevékenység történt, de a szabály nem riasztott.
+A false negative azt jelenti, hogy valódi rosszindulatú tevékenység történt, de a szabály nem riasztott.
 
 Például:
 
 ```text
-A szabály csak powershell.exe
-fájlnévre keres.
+A szabály csak powershell.exe fájlnévre keres.
 
-A támadó más módon
-indítja a PowerShellt.
+A támadó más módon indítja a PowerShellt.
 ```
 
 A false negative gyakran nehezebben észlelhető, mint a false positive.
 
 ## 11. Tuning
 
-A **tuning** a detektálás finomhangolását jelenti.
+A tuning a detektálás finomhangolását jelenti.
 
 Példa:
 
