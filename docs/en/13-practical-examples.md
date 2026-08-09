@@ -526,18 +526,18 @@ Questions:
 
 ## 27. Key Points for Beginners
 
-- An alert is only the beginning of an investigation.
-- Always review events before and after the alert.
-- One event rarely proves an attack.
-- Context prevents incorrect conclusions.
-- Timelines are simple and very useful.
-- Facts and assumptions should be separated.
-- CTI can add context.
-- MITRE ATT&CK helps organise behaviour.
-- Detection tuning reduces noise.
-- Missing logs can create a security blind spot.
-- Good analysts know when to continue investigating and when to escalate.
-- Good questions are more important than memorising many technical commands.
+- An alert is only the beginning of an investigation
+- Always review events before and after the alert
+- One event rarely proves an attack
+- Context prevents incorrect conclusions
+- Timelines are simple and very useful
+- Facts and assumptions should be separated
+- CTI can add context
+- MITRE ATT&CK helps organise behaviour
+- Detection tuning reduces noise
+- Missing logs can create a security blind spot
+- Good analysts know when to continue investigating and when to escalate
+- Good questions are more important than memorising many technical commands
 
 ## 28. Review Questions
 
