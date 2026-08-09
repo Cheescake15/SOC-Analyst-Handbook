@@ -321,7 +321,7 @@ Az ATT&CK tehát segíthet a detektálási lefedettség átgondolásában.
 
 ## 16. Detection coverage
 
-A **detection coverage** azt mutatja meg, milyen támadói viselkedésekre van használható detektálásunk.
+A detection coverage azt mutatja meg, milyen támadói viselkedésekre van használható detektálásunk.
 
 Fontos azonban:
 
@@ -341,7 +341,7 @@ Ezért a lefedettséget rendszeresen ellenőrizni kell.
 
 ## 17. Mi az a Sigma?
 
-A **Sigma** egy nyílt formátum detektálási szabályok leírására.
+A Sigma egy nyílt formátum detektálási szabályok leírására.
 
 Egyszerűen úgy lehet elképzelni, mint egy közös nyelvet a naplóalapú detektálásokhoz.
 
