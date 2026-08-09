@@ -193,11 +193,9 @@ A false positive olyan riasztás, amely gyanúsnak tűnik, de valójában normá
 Példa:
 
 ```text
-A szabály riaszt, mert
-PowerShell futott.
+A szabály riaszt, mert PowerShell futott.
 
-Valójában az IT-csapat
-jóváhagyott karbantartást végzett.
+Valójában az IT-csapat jóváhagyott karbantartást végzett.
 ```
 
 A túl sok false positive riasztási fáradtsághoz vezethet.
