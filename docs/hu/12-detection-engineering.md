@@ -175,7 +175,7 @@ Ezért a szabályt tesztelni és hangolni kell.
 
 ## 8. Baseline
 
-A **baseline** azt mutatja meg, mi számít normális működésnek.
+A baseline azt mutatja meg, mi számít normális működésnek.
 
 Például:
 
@@ -188,7 +188,7 @@ A normális viselkedés ismerete segít eldönteni, mi számít valóban szokatl
 
 ## 9. False positive
 
-A **false positive** olyan riasztás, amely gyanúsnak tűnik, de valójában normális tevékenység.
+A false positive olyan riasztás, amely gyanúsnak tűnik, de valójában normális tevékenység.
 
 Példa:
 
