@@ -12,7 +12,7 @@ Ezek után felmerül a kérdés:
 Hogyan lesz a sok naplóadatból valóban használható biztonsági riasztás?
 ```
 
-Ezzel foglalkozik a **detection engineering**.
+Ezzel foglalkozik a detection engineering.
 
 Magyarul nagyjából detektálási szabályok tervezésének és fejlesztésének nevezhetjük.
 
