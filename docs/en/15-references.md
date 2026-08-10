@@ -20,7 +20,7 @@ The references are organised by topic.
 
 ## 1. NIST
 
-The **National Institute of Standards and Technology**, or NIST, is one of the most important cybersecurity reference organisations.
+The National Institute of Standards and Technology, or NIST, is one of the most important cybersecurity reference organisations.
 
 ### NIST Cybersecurity Framework 2.0
 
@@ -39,7 +39,7 @@ Its main functions are:
 
 ### NIST SP 800-61 Rev. 3
 
-**Incident Response Recommendations and Considerations for Cybersecurity Risk Management**
+Incident Response Recommendations and Considerations for Cybersecurity Risk Management
 
 https://csrc.nist.gov/pubs/sp/800/61/r3/final
 
@@ -53,7 +53,7 @@ Contains additional incident response material.
 
 ## 2. CISA
 
-The **Cybersecurity and Infrastructure Security Agency**, or CISA, publishes practical cybersecurity guidance and advisories.
+The Cybersecurity and Infrastructure Security Agency, or CISA, publishes practical cybersecurity guidance and advisories.
 
 ### Use Logging on Business Systems
 
@@ -183,7 +183,7 @@ These resources provide practical background on accounts, SSH, and Linux securit
 
 ## 6. IETF
 
-The **Internet Engineering Task Force**, or IETF, publishes core internet standards.
+The Internet Engineering Task Force, or IETF, publishes core internet standards.
 
 The Network Fundamentals chapter used several RFC documents.
 
@@ -233,7 +233,7 @@ The Detection Engineering chapter uses Sigma to demonstrate how detection logic 
 
 ## 8. FIRST and TLP
 
-The **Forum of Incident Response and Security Teams**, or FIRST, maintains several international security collaboration resources.
+The Forum of Incident Response and Security Teams, or FIRST, maintains several international security collaboration resources.
 
 ### Traffic Light Protocol 2.0
 
@@ -258,45 +258,8 @@ https://www.cert.europa.eu/publications/threat-intelligence/cyber-threat-intelli
 
 Used as a source for the CTI lifecycle, analytical confidence, and uncertainty.
 
-## 10. Hungarian National Cyber Security Center
 
-The **Hungarian National Cyber Security Center** was one of the most important Hungarian-language sources in the project.
-
-Main site:
-
-https://nki.gov.hu/
-
-Its value for this handbook includes:
-
-- Hungarian-language material
-- local context
-- practical alerts
-- vulnerability information
-- current threat reporting
-
-### Incident Response
-
-https://nki.gov.hu/szolgaltatasok/tartalom/incidenskezeles/
-
-### Event Logging
-
-https://nki.gov.hu/it-biztonsag/hirek/kezikonyv-keszult-a-szervezetek-esemenynaplozasanak-meghatarozasahoz/
-
-### CTI and OpenCTI
-
-https://nki.gov.hu/it-biztonsag/tanacsok/egy-ingyenes-nyilt-forrasu-cti-cyber-threat-intelligence-platform/
-
-### Ransomware
-
-https://nki.gov.hu/figyelmeztetesek/riasztas/riasztas-zsarolovirus-ransomware-tamadasokkal-kapcsolatban/
-
-### Linux and sudo Vulnerabilities
-
-https://nki.gov.hu/it-biztonsag/hirek/kritikus-sebezhetosegek-a-sudo-parancssori-eszkozben-jogosultsagkiterjesztes-veszelye-fenyegeti-a-linux-rendszereket/
-
-Because threat information changes quickly, the latest Hungarian NCSC advisories should always be checked.
-
-## 11. National University of Public Service
+## 10. National University of Public Service
 
 An important Hungarian-language academic source was:
 
@@ -317,9 +280,9 @@ The book provides broad background on:
 
 It was used as a supporting source in several chapters.
 
-## 12. MISP
+## 11. MISP
 
-**MISP**, or Malware Information Sharing Platform, is an open-source threat intelligence platform.
+MISP, or Malware Information Sharing Platform, is an open-source threat intelligence platform.
 
 https://www.misp-project.org/
 
@@ -332,7 +295,7 @@ It supports:
 
 It can be a useful next topic after the beginner CTI chapter.
 
-## 13. OpenCTI
+## 12. OpenCTI
 
 OpenCTI is an open-source Cyber Threat Intelligence platform.
 
@@ -347,7 +310,7 @@ It can support:
 
 The Hungarian National Cyber Security Center has also published an introduction to OpenCTI.
 
-## 14. Additional Learning Resources
+## 13. Additional Learning Resources
 
 Practical learning environments can complement official documentation.
 
@@ -362,7 +325,7 @@ Examples include:
 
 These should always be used in authorised training environments.
 
-## 15. How to Evaluate a Source
+## 14. How to Evaluate a Source
 
 Useful questions include:
 
@@ -374,7 +337,7 @@ Useful questions include:
 6. Does it separate facts from opinion?
 7. Does it communicate uncertainty?
 
-## 16. Primary and Secondary Sources
+## 15. Primary and Secondary Sources
 
 ### Primary Source
 
@@ -401,7 +364,7 @@ Examples include:
 
 Where possible, this handbook uses primary sources and supplements them with Hungarian-language professional material.
 
-## 17. Why Freshness Matters
+## 16. Why Freshness Matters
 
 Cybersecurity changes quickly.
 
@@ -416,7 +379,7 @@ The following may change:
 
 The current version of an original source should therefore be checked when using the handbook.
 
-## 18. Role of Research in This Project
+## 17. Role of Research in This Project
 
 The goal was to create more than a collection of personal notes.
 
@@ -428,7 +391,7 @@ Research makes it possible to:
 - improve the credibility of the repository
 - update the project more easily later
 
-## 19. Suggested Learning Path
+## 18. Suggested Learning Path
 
 A possible next learning sequence is:
 
@@ -445,7 +408,7 @@ A possible next learning sequence is:
 
 There is no need to learn everything at once.
 
-## 20. Final Note
+## 19. Final Note
 
 No cybersecurity handbook remains permanently complete.
 
