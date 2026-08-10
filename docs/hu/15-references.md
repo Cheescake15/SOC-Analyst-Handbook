@@ -270,7 +270,7 @@ A CTI folyamat, elemzés, bizonytalanság és confidence kezeléséhez használt
 
 ## 10. Nemzeti Kiberbiztonsági Intézet
 
-A **Nemzeti Kiberbiztonsági Intézet**, röviden NKI, a projekt egyik legfontosabb magyar nyelvű forrása.
+A Nemzeti Kiberbiztonsági Intézet, röviden NKI, a projekt egyik legfontosabb magyar nyelvű forrása.
 
 Főoldal:
 
@@ -328,7 +328,7 @@ A handbook több fejezetében is háttérforrásként használtam.
 
 ## 12. MISP
 
-A **MISP**, vagyis Malware Information Sharing Platform, nyílt forrású threat intelligence platform.
+A MISP, vagyis Malware Information Sharing Platform, nyílt forrású threat intelligence platform.
 
 https://www.misp-project.org/
 
