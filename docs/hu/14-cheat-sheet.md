@@ -1,4 +1,4 @@
-# 14 — Gyors referencia
+# 14 — SOC Analyst gyorssegédlet
 
 [← Vissza a magyar tartalomjegyzékhez](README.md) | [English version](../en/14-cheat-sheet.md)
 
