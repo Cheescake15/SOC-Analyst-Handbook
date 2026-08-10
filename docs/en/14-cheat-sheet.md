@@ -4,9 +4,9 @@
 
 ## Introduction
 
-This chapter is a quick reference for the most important concepts introduced earlier.
+This chapter is a quick reference for the most important concepts introduced earlier
 
-It does not replace the full chapters.
+It does not replace the full chapters
 
 Use it to quickly find:
 
@@ -119,11 +119,11 @@ Example:
 -rwxr-x---
 ```
 
-Owner can read, write, and execute.
+Owner can read, write, and execute
 
-Group can read and execute.
+Group can read and execute
 
-Others have no access.
+Others have no access
 
 ## 8. Important Linux Directories
 
