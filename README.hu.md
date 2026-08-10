@@ -82,11 +82,11 @@ SOC-Analyst-Handbook/
 - [x] Repository-struktúra
 - [x] Magyar és angol README
 - [x] Kétnyelvű fejezetstruktúra
-- [ ] Magyar fejezetek kidolgozása
-- [ ] Angol fejezetek kidolgozása
-- [ ] Szakmai ellenőrzés
-- [ ] Nyelvi ellenőrzés
-- [ ] Végleges hivatkozásjegyzék
+- [x] Magyar fejezetek kidolgozása
+- [x] Angol fejezetek kidolgozása
+- [x] Szakmai ellenőrzés
+- [x] Nyelvi ellenőrzés
+- [x] Végleges hivatkozásjegyzék
 
 ## Etikus használat
 
