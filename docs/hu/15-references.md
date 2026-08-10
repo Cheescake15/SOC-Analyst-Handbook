@@ -55,7 +55,7 @@ További incidenskezelési dokumentumok és szakmai anyagok találhatók itt.
 
 ## 2. CISA
 
-A **Cybersecurity and Infrastructure Security Agency**, röviden CISA, az Egyesült Államok kiberbiztonsági és infrastruktúravédelmi szervezete.
+A Cybersecurity and Infrastructure Security Agency, röviden CISA, az Egyesült Államok kiberbiztonsági és infrastruktúravédelmi szervezete.
 
 ### Use Logging on Business Systems
 
