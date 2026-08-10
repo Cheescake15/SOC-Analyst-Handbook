@@ -657,7 +657,7 @@ Ez a gondolkodási folyamat a kézikönyv egyik legfontosabb tanulsága.
 
 ## Források
 
-A gyors referencia az előző fejezetekben használt hivatalos és szakmai forrásokra épül, többek között:
+A gyorssegédlet az előző fejezetekben használt hivatalos és szakmai forrásokra épül, többek között:
 
 1. NIST  
    **Cybersecurity Framework 2.0**  
