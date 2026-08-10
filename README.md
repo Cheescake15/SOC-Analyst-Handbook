@@ -84,11 +84,11 @@ The handbook follows these principles:
 - [x] Repository structure
 - [x] English and Hungarian README files
 - [x] Bilingual chapter structure
-- [ ] Complete Hungarian chapters
-- [ ] Complete English chapters
-- [ ] Technical review
-- [ ] Language review
-- [ ] Final references
+- [x] Complete Hungarian chapters
+- [x] Complete English chapters
+- [x] Technical review
+- [x] Language review
+- [x] Final references
 
 ## Ethical Use
 
