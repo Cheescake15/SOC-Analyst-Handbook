@@ -18,7 +18,7 @@ A forrásokat témakörök szerint rendeztem.
 
 ## 1. NIST
 
-A **National Institute of Standards and Technology**, röviden NIST, az egyik legfontosabb kiberbiztonsági szakmai forrás.
+A National Institute of Standards and Technology, röviden NIST, az egyik legfontosabb kiberbiztonsági szakmai forrás.
 
 ### NIST Cybersecurity Framework 2.0
 
@@ -39,7 +39,7 @@ A kézikönyv több fejezete is kapcsolódik ehhez a logikához.
 
 ### NIST SP 800-61 Rev. 3
 
-**Incident Response Recommendations and Considerations for Cybersecurity Risk Management**
+Incident Response Recommendations and Considerations for Cybersecurity Risk Management
 
 https://csrc.nist.gov/pubs/sp/800/61/r3/final
 
